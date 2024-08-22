@@ -2,10 +2,10 @@ primary_name: "Siru Zhong"
 secondary_name: ""
 navbar_name: "Siru's HomePage"
 
-positions:
-- logo: /assets/images/badges/PKU_red.png  # Logo is optional
-  name: Position 1 with logo
-- name: Position 2 without logo
+# positions:
+# - logo: /assets/images/badges/PKU_red.png
+#   name: Position 1 with logo
+# - name: Position 2 without logo
 
 
 email: "siruzhong@outlook.com"
@@ -21,7 +21,7 @@ orcid: 0009-0001-4465-8686
 
 short_bio: >-
   <p>
-  I am currently an M.Phil. student and an incoming Ph.D. student in <a href="http://dsa.hkust-gz.edu.cn/">Data Science and Analytics</a>] at the Hong Kong University of Science and Technology (Guangzhou), under the supervision of <a href="https://yuxuanliang.com/">Prof. Yuxuan Liang</a> & "<a href="https://www.cse.ust.hk/~yqsong/">Prof. Yangqiu Song</a>. I received my B.E. from the <a href="https://ci.hfut.edu.cn/">School of Computer and Information</a> at Hefei University of Technology.
+  I am currently an M.Phil. student and an incoming Ph.D. student in <a href="http://dsa.hkust-gz.edu.cn/">Data Science and Analytics</a> at the Hong Kong University of Science and Technology (Guangzhou), under the supervision of <a href="https://yuxuanliang.com/">Prof. Yuxuan Liang</a> and "<a href="https://www.cse.ust.hk/~yqsong/">Prof. Yangqiu Song</a>. I received my B.E. from the <a href="https://ci.hfut.edu.cn/">School of Computer and Information</a> at Hefei University of Technology.
   </p>
   <p>
   My research interests focus on Multimodal Machine Learning and Data Mining, particularly in Spatio-Temporal and Urban scenarios. I aim to extract valuable insights from large-scale, heterogeneous, cross-domain data.
@@ -49,21 +49,21 @@ education:
   date: Sep. 2018 - Jul. 2022
 
 experience:
-- name: XPENG
+- name: XPENG, Guangzhou
   logo: /assets/images/badges/XPENG.png
-  position: Research Intern
+  position: Research Intern, Autonomous Driving Center
   date: May. 2024 - Jul. 2024
-- name: HKUST(GZ)
+- name: HKUST, Guangzhou
   logo: /assets/images/badges/HKUST_GZ.png
-  position: Research Assistant
+  position: Research Assistant, CityMind Lab
   date: May. 2024 - Jul. 2024
-- name: Tencent
+- name: Tencent, Shenzhen
   logo: /assets/images/badges/Tencent.png
-  position: Software Engineer
+  position: Software Engineer, CloudIDE Team
   date: Jul. 2022 - May. 2023
-- name: Tencent
+- name: Tencent, Beijing
   logo: /assets/images/badges/Tencent.png
-  position: Software Intern
+  position: Software Intern, Fiber Team
   date: Jun. 2021 - Sep. 2023
 
 awards:
