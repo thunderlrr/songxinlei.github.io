@@ -5,14 +5,14 @@ selected:       true
 pub:            "ACM International Conference on Multimedia (ACM MM)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-warning">Poster</span>'
 pub_date:       "2024"
 
 abstract: >-
   First-ever cross-domain framework that integrates the power of LMM and SAM into satellite image-text retrieval.
 cover:          /assets/images/covers/UrbanCross.png
 authors:
-  - Siru ZHong
+  - Siru Zhong
   - Xixuan Hao
   - Yibo Yan
   - Ying Zhang
