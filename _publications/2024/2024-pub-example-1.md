@@ -13,7 +13,7 @@ abstract: >-
 cover:          /assets/images/covers/STFNN.png
 authors:
   - Yutong Feng
-  = Qiongyan Wang
+  - Qiongyan Wang
   - Yutong Xia
   - Junlin Huang
   - Siru Zhong
