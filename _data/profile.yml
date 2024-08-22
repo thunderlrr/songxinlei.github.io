@@ -12,6 +12,7 @@ email: "siruzhong@outlook.com"
 # cv_link: link-to-your-cv-file
 gscholar: 3KMb5mUAAAAJ
 github: siruzhong
+zhihu: zhongsiru
 # twitter: your_twitter_id
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
@@ -20,15 +21,9 @@ linkedin: siruzhong
 orcid: 0009-0001-4465-8686
 
 short_bio: >-
-  <p>
   I am currently an M.Phil. student and an incoming Ph.D. student in <a href="http://dsa.hkust-gz.edu.cn/">Data Science and Analytics</a> at the Hong Kong University of Science and Technology (Guangzhou), under the supervision of <a href="https://yuxuanliang.com/">Prof. Yuxuan Liang</a> and "<a href="https://www.cse.ust.hk/~yqsong/">Prof. Yangqiu Song</a>. I received my B.E. from the <a href="https://ci.hfut.edu.cn/">School of Computer and Information</a> at Hefei University of Technology.
-  </p>
-  <p>
   My research interests focus on Multimodal Machine Learning and Data Mining, particularly in Spatio-Temporal and Urban scenarios. I aim to extract valuable insights from large-scale, heterogeneous, cross-domain data.
-  </p>
-  <p>
   Previously, I worked as an Research Intern at <a href="https://www.xpeng.com/">XPENG</a>, concentrated on visual multimodal research and contributed to the development of the XNGP System. I also have experience as a full-time Software Engineer at <a href="https://www.tencent.com/">Tencent</a>, where I improved QQ’s performance and developed cloud-native tools like CodeSpaces and the Workflow Engine.
-  </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: >-
