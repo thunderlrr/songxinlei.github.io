@@ -1,11 +1,11 @@
 ---
-title:          "Learning Text-enhanced Urban Region Profiling with Contrastive Language-Image Pretraining from the Web"
+title:          "UrbanCLIP: Learning Text-enhanced Urban Region Profiling with Contrastive Language-Image Pretraining from the Web"
 date:           2024-05-12 00:01:00 +0800
 selected:       true
-pub:            "ACM International Conference on Multimedia (ACM MM)"
+pub:            "The International World Wide Web Conference (WWW)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Oral</span>'
 pub_date:       "2024"
 
 abstract: >-

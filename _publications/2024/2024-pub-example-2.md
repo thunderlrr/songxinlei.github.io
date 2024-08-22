@@ -9,7 +9,7 @@ pub:            "The International Joint Conference on Artificial Intelligence (
 pub_date:       "2024"
 
 abstract: >-
-  A novel deep-learning model for real-time parking availability in Singapore, analyzing external factors, introducing a new dataset, and improving prediction accuracy.
+  A novel deep-learning prediction model for real-time parking availability in Singapore, analyzing external factors, introducing a new dataset.
 cover:          /assets/images/covers/SINPA.png
 authors:
   - Huaiwu Zhang
