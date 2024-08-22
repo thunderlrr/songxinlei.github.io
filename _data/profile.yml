@@ -21,13 +21,13 @@ orcid: 0009-0001-4465-8686
 
 short_bio: >-
   <p>
-  I am currently an M.Phil. student and an incoming Ph.D. student in [Data Science and Analytics](http://dsa.hkust-gz.edu.cn/) at <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-07-26-030513.png" style="height: 1em; vertical-align: middle;"> the Hong Kong University of Science and Technology (Guangzhou), under the supervision of [Prof. Yuxuan Liang](https://yuxuanliang.com/) & [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/). I received my B.E. from the [School of Computer Science and Information Engineering](https://ci.hfut.edu.cn/) at <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-07-26-030242.png" style="height: 1em; vertical-align: middle;"> Hefei University of Technology.
+  I am currently an M.Phil. student and an incoming Ph.D. student in <a href="http://dsa.hkust-gz.edu.cn/">Data Science and Analytics</a>] at the Hong Kong University of Science and Technology (Guangzhou), under the supervision of <a href="https://yuxuanliang.com/">Prof. Yuxuan Liang</a> & "<a href="https://www.cse.ust.hk/~yqsong/">Prof. Yangqiu Song</a>. I received my B.E. from the <a href="https://ci.hfut.edu.cn/">School of Computer and Information</a> at Hefei University of Technology.
   </p>
   <p>
   My research interests focus on Multimodal Machine Learning and Data Mining, particularly in Spatio-Temporal and Urban scenarios. I aim to extract valuable insights from large-scale, heterogeneous, cross-domain data.
   </p>
   <p>
-  Previously, I worked as an <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-07-26-031553.png" style="height: 1em; vertical-align: middle;"> Algorithm Intern at [XPENG](https://www.xpeng.com/), where I concentrated on visual multimodal research and contributed to the development of the XNGP System. I also have experience as a full-time <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-07-26-031942.png" style="height: 1em; vertical-align: middle;"> Software Engineer at [Tencent](https://www.tencent.com/), where I improved QQ’s performance and developed cloud-native tools like CodeSpaces and the Workflow Engine.
+  Previously, I worked as an Research Intern at <a href="https://www.xpeng.com/">XPENG</a>, where I concentrated on visual multimodal research and contributed to the development of the XNGP System. I also have experience as a full-time Software Engineer at <a href="https://www.tencent.com/">Tencent</a>, where I improved QQ’s performance and developed cloud-native tools like CodeSpaces and the Workflow Engine.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -35,11 +35,11 @@ portrait_caption: >-
   I'm siru. Welcome to my homepage~
 
 education:
-- name: Hong Kong University of Science and Technology (GZ)
+- name: Hong Kong University of Science and Technology (Guangzhou)
   logo: /assets/images/badges/HKUST_GZ.png
   position: Ph.D. in Data Science and Analytics
   date: Feb. 2025 - Feb. 2028
-- name: Hong Kong University of Science and Technology (GZ)
+- name: Hong Kong University of Science and Technology (Guangzhou)
   logo: /assets/images/badges/HKUST_GZ.png
   position: M.Phil. in Data Science and Analytics
   date: Aug. 2023 - Jan. 2025
