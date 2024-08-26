@@ -1,6 +1,6 @@
 ---
 title: "UrbanCross: Enhancing Satellite Image-Text Retrieval with Cross-Domain Adaptation"
-date: 2024-05-12 00:01:00 +0800
+date: 2024-07-14 00:01:00 +0800
 selected: true
 pub: "ACM International Conference on Multimedia (ACM MM)"
 # pub_pre:        "Submitted to "
