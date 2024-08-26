@@ -1,26 +1,24 @@
 ---
-title:          "UrbanCLIP: Learning Text-enhanced Urban Region Profiling with Contrastive Language-Image Pretraining from the Web"
-date:           2024-05-12 00:01:00 +0800
-selected:       true
-pub:            "The International World Wide Web Conference (WWW)"
+title: "UrbanCross: Enhancing Satellite Image-Text Retrieval with Cross-Domain Adaptation"
+date: 2024-05-12 00:01:00 +0800
+selected: true
+pub: "ACM International Conference on Multimedia (ACM MM)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Oral</span>'
-pub_date:       "2024"
+pub_last: ' <span class="badge badge-pill badge-publication badge-warning">Poster</span>'
+pub_date: "2024"
 
 abstract: >-
   First-ever cross-domain framework that integrates the power of LMM and SAM into satellite image-text retrieval.
-cover:          /assets/images/covers/UrbanCLIP.png
+cover: /assets/images/covers/UrbanCross.png
 authors:
-  - Yibo Yan
-  - Haomin Wen
   - Siru Zhong
-  - Wei Chen
-  - Haodong Chen
-  - Qingsong Wen
-  - Roger Zimmermann
+  - Xixuan Hao
+  - Yibo Yan
+  - Ying Zhang
+  - Yangqiu Song
   - Yuxuan Liang
-
 links:
-  Paper: https://arxiv.org/pdf/2310.18340.pdf
+  Code: https://github.com/siruzhong/urbancross
+  Paper: https://arxiv.org/pdf/2404.14241.pdf
 ---
