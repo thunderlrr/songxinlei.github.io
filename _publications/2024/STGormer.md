@@ -1,6 +1,6 @@
 ---
 title: "Navigating Spatio-Temporal Heterogeneity: A Graph Transformer Approach for Traffic Forecasting"
-date: 2024-08-12 00:01:00 +0800
+date: 2000-08-12 00:01:00 +0800
 selected: true
 # pub: "ACM International Conference on Multimedia (ACM MM)"
 # pub_pre:        "Submitted to "
