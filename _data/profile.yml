@@ -2,9 +2,9 @@ primary_name: "Siru Zhong"
 secondary_name: ""
 navbar_name: "Siru's HomePage"
 
-# positions:
-# - logo: /assets/images/badges/PKU_red.png
-#   name: Position 1 with logo
+positions:
+- logo: /assets/images/badges/HKUST_GZ.png
+  name: Ph.D. student in Data Science and Analytics
 # - name: Position 2 without logo
 
 
