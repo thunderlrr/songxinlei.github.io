@@ -1,7 +1,7 @@
 ---
 title: "Predicting Parking Availability in Singapore with Cross-Domain Data: A New Dataset and A Data-Driven Approach"
 date: 2024-05-12 00:01:00 +0800
-selected: true
+selected: false
 pub: "The International Joint Conference on Artificial Intelligence (IJCAI)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
