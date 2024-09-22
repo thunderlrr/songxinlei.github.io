@@ -4,7 +4,7 @@ navbar_name: "Siru's HomePage"
 
 positions:
 - logo: /assets/images/badges/HKUST_GZ.png
-  name: PhD @ HKUST Guangzhou, On Data-Centric Multimodal Learning 
+  name: PhD @ HKUST(GZ), On Urban MM & DM
 # - name: Position 2 without logo
 
 
@@ -22,7 +22,7 @@ orcid: 0009-0001-4465-8686
 
 short_bio: >-
   <p style="margin-bottom:5px"> I am an M.Phil. student and an incoming Ph.D. student in <a href="http://dsa.hkust-gz.edu.cn/">Data Science and Analytics</a> at the Hong Kong University of Science and Technology (Guangzhou), under the supervision of <a href="https://yuxuanliang.com/">Prof. Yuxuan Liang</a> and <a href="https://www.cse.ust.hk/~yqsong/">Prof. Yangqiu Song</a>. I earned my B.E. from the <a href="https://ci.hfut.edu.cn/">School of Computer and Information</a> at Hefei University of Technology. </p>
-  <p style="margin-bottom:5px"> My research interests include Multimodal Machine Learning and Data Mining, with a focus on Spatio-Temporal and Urban scenarios. I aim to derive insights from large-scale, heterogeneous, cross-domain data. </p>
+  <p style="margin-bottom:5px"> My research interests are Urban Multimodal Machine Learning and Data Mining, with a focus on Spatio-Temporal and Urban scenarios. I aim to derive insights from large-scale, heterogeneous, cross-domain urban data. </p>
   <p style="margin-bottom:5px"> Previously, I was a Research Intern at <a href="https://www.xpeng.com/">XPENG</a>, working on visual multimodal research and contributing to the XNGP System. I also worked as a Software Engineer at <a href="https://www.tencent.com/">Tencent</a>, where I enhanced QQ’s performance and developed cloud-native tools like CodeSpaces and the Workflow Engine. </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -62,21 +62,25 @@ experience:
   date: Jun. 2021 - Sep. 2023
 
 awards:
-- name: Best Project Award (1/15) in Data Science Computing (DSAA 5021) at HKUST(GZ)
-  date: 2024
-- name: Outstanding Student Award (Top 10%) of the Red Bird Challenge Camp at HKUST(GZ)
-  date: 2024
-- name: iCode Certification at Tencent
+- name: Best Project Award (1st/15) in Data Science Computing (DSAA 5021), HKUST(GZ)
+  date: 2023
+- name: Outstanding Student Award (Top 10%) in Red Bird Challenge Camp, HKUST(GZ)
+  date: 2023
+- name: iCode Certification — R&D Engineering Competency Evaluation, Tencent
   date: 2022
-- name: Silver Award (2/12) of Code World Program at Tencent
+- name: Silver Award (2nd/12) in Code World Program, Tencent
   date: 2022
-- name: Outstanding Student Award (8/100) of Graduates Training at Tencent
+- name: Outstanding Student Award (8th/100) in Graduate Training, Tencent
   date: 2022
-- name: Outstanding Graduation Thesis Award (Top 2%) at HFUT}
+- name: Outstanding Graduation Thesis Award (Top 2%), HFUT
   date: 2022
 - name: Third Prize in National College English Competition
   date: 2021
-- name: First Prize in CSDN Technology Blogger Competition (Top 10)
+- name: Third-Class Scholarship, Hefei University of Technology
+  date: 2020-2021
+- name: Learning Progress Award, Hefei University of Technology
+  date: 2018-2020
+- name: First Prize (Top 10) in CSDN Technology Blogger Competition
   date: 2020
-- name: Second Prize in Robotics Competition (2D Project Team) at HFUT
+- name: Second Prize (2D Project Team) in Robotics Competition, HFUT
   date: 2020
