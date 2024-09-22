@@ -9,7 +9,7 @@ pub_last: ' <span class="badge badge-pill badge-publication badge-warning">Poste
 pub_date: "2024"
 
 abstract: >-
-  First-ever cross-domain framework that integrates the power of LMM and SAM into satellite image-text retrieval.
+  Introduced UrbanCross, a cross-domain satellite image-text retrieval framework that leverages multimodal enhancements and adaptive domain adaptation techniques to bridge diverse urban landscapes, achieving up to a 15% improvement in retrieval performance.
 cover: /assets/images/covers/UrbanCross.png
 authors:
   - Siru Zhong

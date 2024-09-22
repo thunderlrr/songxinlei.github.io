@@ -9,7 +9,7 @@ pub_post: "Under review."
 pub_date: "2024"
 
 abstract: >-
-  First urban region representation learning framework that explores multi-granularity cross-modal alignment.
+  Present UrbanVLP, a novel vision-language pretraining framework that integrates both macro and micro-level urban data and enhances interpretability through automatic text generation, achieving superior performance in urban region profiling.
 cover: /assets/images/covers/UrbanVLP.png
 authors:
   - Xixuan Hao

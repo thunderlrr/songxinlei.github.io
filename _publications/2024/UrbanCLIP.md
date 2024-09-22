@@ -9,7 +9,7 @@ pub_last: ' <span class="badge badge-pill badge-publication badge-success">Oral<
 pub_date: "2024"
 
 abstract: >-
-  First-ever cross-domain framework that integrates the power of LMM and SAM into satellite image-text retrieval.
+  Introduce UrbanCLIP, the first large language model–enhanced framework that integrates textual descriptions with satellite imagery through contrastive language-image pretraining, significantly improving urban region profiling performance across major cities.
 cover: /assets/images/covers/UrbanCLIP.png
 authors:
   - Yibo Yan
@@ -22,5 +22,6 @@ authors:
   - Yuxuan Liang
 
 links:
+  Code: https://github.com/StupidBuluchacha/UrbanCLIP
   Paper: https://arxiv.org/pdf/2310.18340.pdf
 ---

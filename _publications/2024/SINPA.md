@@ -9,7 +9,7 @@ pub: "The International Joint Conference on Artificial Intelligence (IJCAI)"
 pub_date: "2024"
 
 abstract: >-
-  A novel deep-learning prediction model for real-time parking availability in Singapore, analyzing external factors, introducing a new dataset.
+  Introduce DeepPA, a deep-learning framework and the SINPA dataset for accurately predicting real-time parking availability across Singapore, outperforming existing models and supporting urban planning through a deployed web platform.
 cover: /assets/images/covers/SINPA.png
 authors:
   - Huaiwu Zhang
@@ -21,5 +21,6 @@ authors:
   - Roger Zimmermann
   - Yuxuan Liang
 links:
+  Code: https://github.com/yoshall/SINPA
   Paper: https://arxiv.org/pdf/2405.18910
 ---

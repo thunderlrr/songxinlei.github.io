@@ -9,7 +9,7 @@ pub_post: "Under review."
 pub_date: "2024"
 
 abstract: >-
-  Introduce the Spatio-Temporal Graph Transformer (STGormer), a model that integrates attribute and structure information in traffic data to learn spatio-temporal correlations and uses a mixture-of-experts module to capture heterogeneity, leading to state-of-the-art performance in traffic forecasting.
+  Introduce STGormer, a Spatio-Temporal Graph Transformer that integrates traffic data attributes and structures with a mixture-of experts module to capture spatio-temporal heterogeneity, achieving state-of-the-art performance in traffic forecasting
 cover: /assets/images/covers/STGormer.png
 authors:
   - Jianxiang Zhou
