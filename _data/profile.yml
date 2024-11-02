@@ -2,9 +2,9 @@ primary_name: "Siru Zhong"
 secondary_name: ""
 navbar_name: "Siru's HomePage"
 
-positions:
-- logo: /assets/images/badges/HKUST_GZ.png
-  name: Ph.D. Student @ HKUST(GZ), On Urban Multimodal ML & Data Mining
+# positions:
+# - logo: /assets/images/badges/HKUST_GZ.png
+#   name: Ph.D. Student @ HKUST(GZ), On Urban Multimodal ML & Data Mining
 # - name: Position 2 without logo
 
 
@@ -22,7 +22,7 @@ orcid: 0009-0001-4465-8686
 
 short_bio: >-
   <p style="margin-bottom:5px"> I am currently an M.Phil. student and an incoming Ph.D. student in <a href="http://dsa.hkust-gz.edu.cn/">Data Science and Analytics</a> at the Hong Kong University of Science and Technology (Guangzhou), under the supervision of <a href="https://yuxuanliang.com/">Prof. Yuxuan Liang</a> and <a href="https://www.cse.ust.hk/~yqsong/">Prof. Yangqiu Song</a>. I earned my B.E. from the <a href="https://ci.hfut.edu.cn/">School of Computer and Information</a> at Hefei University of Technology. </p>
-  <p style="margin-bottom:5px"> My research interests lie in Multimodal Machine Learning and Data Mining, with a focus on Spatio-Temporal and Urban Applications. I aim to extract insights from large-scale, heterogeneous, and cross-domain urban data. </p>
+  <p style="margin-bottom:5px"> My research interests lie in Spatial-Temporal Multi-modal Learning and Data Mining. I aim to extract insights from large-scale, heterogeneous, and cross-domain urban data. </p>
   <p style="margin-bottom:5px"> Previously, I worked as a Research Intern at <a href="https://www.xpeng.com/">XPENG</a>, where I conducted visual multimodal research and contributed to the development of the XNGP System. I also was a Software Engineer at <a href="https://www.tencent.com/">Tencent</a>, where I enhanced QQ’s performance and developed cloud-native tools like CodeSpaces and the Workflow Engine. </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
