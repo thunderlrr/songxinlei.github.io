@@ -45,19 +45,19 @@ education:
 experience:
 - name: XPENG, Guangzhou
   logo: /assets/images/badges/XPENG.png
-  position: Research Intern, Autonomous Driving Center
+  position: Research Intern, Autonomous Driving Center, Visual imaging
   date: May. 2024 - Jul. 2024
 - name: HKUST, Guangzhou
   logo: /assets/images/badges/HKUST_GZ.png
-  position: Research Assistant, CityMind Lab
+  position: Research Assistant, CityMind Lab, Urban multimodal
   date: May. 2023 - Aug. 2023
 - name: Tencent, Shenzhen
   logo: /assets/images/badges/Tencent.png
-  position: Software Engineer, CloudIDE Team
+  position: Software Engineer, CloudIDE Center, Container Orchestration and Scheduling
   date: Jul. 2022 - May. 2023
 - name: Tencent, Beijing
   logo: /assets/images/badges/QQ.png
-  position: Software Intern, Fiber Team
+  position: Software Intern, Fiber Center, DevOps and R&D efficiency
   date: Jun. 2021 - Sep. 2023
 
 awards:
@@ -69,17 +69,15 @@ awards:
   date: 2022
 - name: Silver Award (2nd/12) in Code World Program, Tencent
   date: 2022
-- name: Outstanding Student Award (8th/100) in Graduate Training, Tencent
+- name: Outstanding Student Award (8th/100) in New Employee Training, Tencent
   date: 2022
 - name: Outstanding Graduation Thesis Award (Top 2%), HFUT
   date: 2022
 - name: Third Prize in National College English Competition
   date: 2021
-- name: Third-Class Scholarship, Hefei University of Technology
-  date: 2020-2021
-- name: Learning Progress Award, Hefei University of Technology
-  date: 2018-2020
 - name: First Prize (Top 10) in CSDN Technology Blogger Competition
   date: 2020
-- name: Second Prize (2D Project Team) in Robotics Competition, HFUT
+- name: Second Prize in 2D Robotics Competition, HFUT
   date: 2020
+- name: School Scholarship, HFUT
+  date: 2018-2021
