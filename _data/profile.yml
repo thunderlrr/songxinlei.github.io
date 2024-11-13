@@ -53,7 +53,7 @@ experience:
   date: May. 2023 - Aug. 2023
 - name: Tencent, Shenzhen
   logo: /assets/images/badges/Tencent.png
-  position: Software Engineer, CloudIDE Center, Container Orchestration and Scheduling
+  position: Software Engineer, CloudIDE Center, Container Orchestration
   date: Jul. 2022 - May. 2023
 - name: Tencent, Beijing
   logo: /assets/images/badges/QQ.png
@@ -81,3 +81,9 @@ awards:
   date: 2020
 - name: School Scholarship, HFUT
   date: 2018-2021
+
+activities:
+  - name: New Year Gala performers, PCG, Tencent
+    date: 2023
+  - name: External Relations Officer, School of Computer and Information, HFUT
+    date: 2018-2019

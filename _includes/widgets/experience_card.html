@@ -52,8 +52,8 @@
                         {% endif %}
                     </div>
 
-                    {% if site.data.profile.awards %}
                     <div class="col-md-6">
+                        {% if site.data.profile.awards %}
                         <div class="mx-2 my-1">
                             <h6>Honors & Awards</h6>
                             <ul class="list small pl-3 mb-1">
@@ -67,8 +67,24 @@
                                 {% endfor %}
                             </ul>
                         </div>
+                        {% endif %}
+
+                        {% if site.data.profile.activities %}
+                        <div class="mx-2 my-1">
+                            <h6>Extracurricular Activities</h6>
+                            <ul class="list small pl-3 mb-1">
+                                {% for item in site.data.profile.activities %}
+                                <li>
+                                    <div class="d-flex">
+                                        <div>{{ item.name }}</div>
+                                        <div class="ml-auto mt-auto no-break"><em>{{ item.date }}</em></div>
+                                    </div>
+                                </li>
+                                {% endfor %}
+                            </ul>
+                        </div>
+                        {% endif %}
                     </div>
-                    {% endif %}
 
                 </div>
 
