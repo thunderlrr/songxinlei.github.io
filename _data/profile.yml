@@ -21,7 +21,7 @@ linkedin: siruzhong
 orcid: 0009-0001-4465-8686
 
 short_bio: >-
-  <p style="margin-bottom:5px"> I am an incoming Ph.D. student in <a href="http://dsa.hkust-gz.edu.cn/">Data Science and Analytics</a> at HKUST Guangzhou, supervised by <a href="https://yuxuanliang.com/">Prof. Yuxuan Liang</a>. My research focuses on spatio-temporal representation learning using cross-domain, multimodal data.</p>
+  <p style="margin-bottom:5px"> I am an incoming Ph.D. student in <a href="http://dsa.hkust-gz.edu.cn/">Data Science and Analytics</a> at HKUST Guangzhou, supervised by <a href="https://yuxuanliang.com/">Prof. Yuxuan Liang</a>. My research focuses on spatio-temporal representation learning from cross-domain, multimodal data, with future work on data distillation, augmentation, and knowledge distillation to improve model efficiency and generalization.</p>
   <p style="margin-bottom:5px"> Previously, I was a Research Intern at <a href="https://www.xpeng.com/">XPENG</a>, working on visual multimodal research for the XNGP System, and a Software Engineer at <a href="https://www.tencent.com/">Tencent</a>, enhancing QQ’s performance and developing cloud-native tools.</p>
 
 portrait_url: /assets/images/photos/portrait.jpg
