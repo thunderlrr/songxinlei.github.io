@@ -32,25 +32,25 @@ portrait_caption: >-
 education:
 - name: Hong Kong University of Science and Technology (Guangzhou)
   logo: /assets/images/badges/HKUST_GZ.png
-  position: Ph.D. in Data Science and Analytics
-  date: Feb. 2025 - Feb. 2028
+  position: Ph.D. in Data Science and Analytics, Information Hub
+  date: Feb. 2025 - Jan. 2028
 - name: Hong Kong University of Science and Technology (Guangzhou)
   logo: /assets/images/badges/HKUST_GZ.png
-  position: M.Phil. in Data Science and Analytics
+  position: M.Phil. in Data Science and Analytics, Information Hub
   date: Aug. 2023 - Jan. 2025
 - name: Hefei University of Technology
   logo: /assets/images/badges/HFUT.png
-  position: B.S. in Computer Science and Information Engineering
+  position: B.S. in Internet of Things Engineering, School of Computer and Information
   date: Sep. 2018 - Jul. 2022
 
 experience:
 - name: XPENG, Guangzhou
   logo: /assets/images/badges/XPENG.png
-  position: Research Intern, Autonomous Driving Center, Visual imaging
+  position: Research Intern, Autonomous Driving Center, Visual Imaging
   date: May. 2024 - Jul. 2024
 - name: HKUST, Guangzhou
   logo: /assets/images/badges/HKUST_GZ.png
-  position: Research Assistant, CityMind Lab, Urban multimodal
+  position: Research Assistant, CityMind Lab, Urban Multimodal
   date: May. 2023 - Aug. 2023
 - name: Tencent, Shenzhen
   logo: /assets/images/badges/Tencent.png
@@ -58,7 +58,7 @@ experience:
   date: Jul. 2022 - May. 2023
 - name: Tencent, Beijing
   logo: /assets/images/badges/QQ.png
-  position: Software Intern, Fiber Center, DevOps and R&D efficiency
+  position: Software Intern, QQ Efficiency Center, DevOps
   date: Jun. 2021 - Sep. 2023
 
 awards:
@@ -84,13 +84,15 @@ awards:
   date: 2018-2021
 
 activities:
-  - name: Attendee, ACM Multimedia Conference (ACM MM)
+  - name: Greater Bay Area Science Forum attendee, Guangzhou, China
     date: 2024
-  - name: Attendee, China National Computer Conference (CNCC)
+  - name: ACM Multimedia Conference attendee, Melbourne, Australia
     date: 2024
-  - name: New Year Gala performer, PCG, Tencent
+  - name: China National Computer Conference attendee, Yiwu, China
+    date: 2024
+  - name: Tencent New Year Gala performer, Shenzhen, China
     date: 2023
-  - name: School chorus member, HFUT
+  - name: HFUT Chorus member, Hefei, China
     date: 2018-2022
-  - name: External Relations Officer, School of Computer and Information, HFUT
+  - name: HFUT External Relations Department member, Hefei, China
     date: 2018-2019
