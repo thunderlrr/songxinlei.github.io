@@ -1,10 +1,10 @@
 ---
 title: "UrbanVLP: A Multi-Granularity Vision-Language Pre-Trained Model for Urban Indicator Prediction"
-date: 2024-03-12 00:01:00 +0800
-selected: false
-# pub:            "ACM International Conference on Multimedia (ACM MM)"
+date: 2024-12-10 00:01:00 +0800
+selected: true
+pub:            "AAAI Conference on Artificial Intelligence (AAAI)"
 # pub_pre:        "Submitted to "
-pub_post: "Under review."
+# pub_post: "Under review."
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date: "2024"
 
