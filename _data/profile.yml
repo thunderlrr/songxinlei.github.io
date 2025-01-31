@@ -35,15 +35,15 @@ portrait_caption: >-
 education:
 - name: Hong Kong University of Science and Technology (Guangzhou)
   logo: /assets/images/badges/HKUST_GZ.png
-  position: Doctor of Philosophy - PhD, Data Science
+  position: Doctor of Philosophy - Data Science and Analytics Thrust
   date: Feb. 2025 - Jan. 2028
 - name: Hong Kong University of Science and Technology (Guangzhou)
   logo: /assets/images/badges/HKUST_GZ.png
-  position: Master of Philosophy - MPhil, Data Science
+  position: Master of Philosophy - Data Science and Analytics Thrust
   date: Aug. 2023 - Jan. 2025
 - name: Hefei University of Technology
   logo: /assets/images/badges/HFUT.png
-  position: Bachelor of Engineering - BE, Computer Science
+  position: Bachelor of Engineering - School of Computer and Information
   date: Sep. 2018 - Jul. 2022
 
 experience:
