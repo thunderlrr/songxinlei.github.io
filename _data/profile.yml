@@ -21,11 +21,14 @@ linkedin: siruzhong
 orcid: 0009-0001-4465-8686
 
 short_bio: >-
-  <p style="margin-bottom:5px">I am a first-year Ph.D student in <a href="http://dsa.hkust-gz.edu.cn/">Data Science and Analytics</a> at <a href="https://www.hkust-gz.edu.cn/">HKUST(GZ)</a>, working in the <a href="https://citymind.top/">CityMind Lab</a> under the supervision of <a href="https://yuxuanliang.com/">Prof. Yuxuan Liang</a> and <a href="https://www.cse.ust.hk/~yqsong/">Prof. Yangqiu Song</a>. My research focuses on spatial-temporal multi-modal learning.</p>
-  <p style="margin-bottom:5px">I earned my M.Phil degree in Data Science and Analytics from <a href="http://dsa.hkust-gz.edu.cn/">HKUST(GZ)</a>, and my B.Eng degree in Computer Science and Information Engineering from <a href="https://ci.hfut.edu.cn/">HFUT</a>.</p>
-  <p style="margin-bottom:5px">Previously, I worked as a algorithm research intern at Autonomous Driving Center, <a href="https://www.xpeng.com/">XPENG Motor</a>, and a Software Engineer at CloudIDE Center, <a href="https://www.tencent.com/">Tencent</a>.</p>
+  <p style="margin-bottom: 5px;">
+  I am a first-year Ph.D. student in <a href="http://dsa.hkust-gz.edu.cn/" target="_blank">Data Science & Analytics</a> at the <a href="https://www.hkust-gz.edu.cn/" target="_blank">Hong Kong University of Science and Technology, Guangzhou</a>, supervised by <a href="https://yuxuanliang.com/" target="_blank">Prof. Yuxuan Liang</a> and <a href="https://www.cse.ust.hk/~yqsong/" target="_blank">Prof. Yangqiu Song</a>. My research focuses on <strong>spatial-temporal data mining</strong>, <strong>multi-modal learning</strong>, and <strong>time series analysis</strong>.
+  </p>
+  <p style="margin-bottom: 5px;">
+    I hold an M.Phil degree in Data Science from the <a href="http://dsa.hkust-gz.edu.cn/" target="_blank">Hong Kong University of Science and Technology, Guangzhou</a>, and a B.Eng degree in Computer Science from the <a href="https://ci.hfut.edu.cn/" target="_blank">Hefei University of Technology</a>. Prior to my Ph.D., I gained industry experience as an <strong>Algorithm Research Intern</strong> at the Autonomous Driving Center of <a href="https://www.xpeng.com/" target="_blank">XPENG Motor</a> and as a <strong>Software Engineer</strong> at the CloudIDE Center of <a href="https://www.tencent.com/" target="_blank">Tencent</a>.
+  </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
+# portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: >-
   I'm siru. Welcome to my homepage~
 
