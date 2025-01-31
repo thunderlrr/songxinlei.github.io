@@ -47,24 +47,26 @@ education:
   date: Sep. 2018 - Jul. 2022
 
 experience:
-- name: XPENG, Guangzhou
+- name: XPENG - Autonomous Driving Center
   logo: /assets/images/badges/XPENG.png
-  position: Research Intern, Autonomous Driving Center
-  date: May. 2024 - Jul. 2024
-- name: HKUST, Guangzhou
+  position: AlgorithmResearch Intern
+  date: May. 2024 - Aug. 2024
+- name: HKUST(GZ) - CityMind Lab
   logo: /assets/images/badges/HKUST_GZ.png
-  position: Research Assistant, CityMind Lab
+  position: Research Assistant, 
   date: May. 2023 - Aug. 2023
-- name: Tencent, Shenzhen
+- name: Tencent - CloudIDE Center
   logo: /assets/images/badges/Tencent.png
-  position: Software Engineer, CloudIDE Container Team
+  position: Software Engineer
   date: Jul. 2022 - May. 2023
-- name: Tencent, Beijing
-  logo: /assets/images/badges/QQ.png
-  position: Software Intern, Workflow Engine Team
+- name: Tencent - Workflow Engine Center
+  logo: /assets/images/badges/Tencent.png
+  position: Software Intern
   date: Jun. 2021 - Sep. 2023
 
 awards:
+- name: Runner-Up Prize for DSA Excellent Research Award, HKUST(GZ)
+  date: 2024
 - name: Best Project Award (1st/15) in Data Science Computing, HKUST(GZ)
   date: 2023
 - name: Outstanding Student Award (Top 10%) in Red Bird Challenge Camp, HKUST(GZ)
