@@ -2,9 +2,9 @@ primary_name: "Siru Zhong"
 secondary_name: ""
 navbar_name: "Siru's HomePage"
 
-positions:
-- logo: /assets/images/badges/HKUST_GZ.png
-  name: Ph.D. Student @ HKUST(GZ), On STDM & MM
+# positions:
+# - logo: /assets/images/badges/HKUST_GZ.png
+#   name: Ph.D. Student @ HKUST(GZ), On STDM & MM
 
 email: "siruzhong@outlook.com"
 # cv_link: link-to-your-cv-file
