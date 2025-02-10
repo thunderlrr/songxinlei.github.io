@@ -1,6 +1,6 @@
 ---
 title: "AirRadar: Inferring Nationwide Air Quality in China with Deep Neural Networks"
-date: 2024-12-10 00:00:00 +0800
+date: 2025-02-27 00:00:00 +0800
 selected: true
 pub:            "AAAI Conference on Artificial Intelligence (AAAI)"
 # pub_pre:        "Submitted to "

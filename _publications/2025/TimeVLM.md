@@ -1,6 +1,6 @@
 ---
 title: "Time-VLM: Exploring Multimodal Vision-Language Models for Augmented Time Series Forecasting"
-date: 2025-02-10 00:00:00 +0800
+date: 2025-05-10 00:00:00 +0800
 selected: true
 # pub:            "AAAI Conference on Artificial Intelligence (AAAI)"
 # pub_pre:        "Submitted to "
