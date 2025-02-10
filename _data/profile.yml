@@ -48,11 +48,11 @@ education:
 experience:
 - name: XPENG
   logo: /assets/images/badges/xpeng_company.png
-  position: Research Intern, Autonomous Driving Center
+  position: Algorithm Engineer (Intern), Autonomous Driving Center
   date: May. 2024 - Aug. 2024
 - name: HKUST(GZ)
   logo: /assets/images/badges/hkustgz.png
-  position: Research Assistant, CityMind Lab
+  position: Research Assistant (Full-time), CityMind Lab
   date: May. 2023 - Aug. 2023
 - name: Tencent
   logo: /assets/images/badges/tencent_company.png
@@ -60,7 +60,7 @@ experience:
   date: Jul. 2022 - May. 2023
 - name: Tencent
   logo: /assets/images/badges/tencent_company.png
-  position: Software Intern, Workflow Engine Center
+  position: Software Engineer (Intern), Workflow Engine Center
   date: Jun. 2021 - Sep. 2023
 
 awards:
