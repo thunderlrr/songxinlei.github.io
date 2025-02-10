@@ -6,7 +6,7 @@ pub:            "AAAI Conference on Artificial Intelligence (AAAI)"
 # pub_pre:        "Submitted to "
 # pub_post: "Under review."
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
-pub_date: "2024"
+pub_date: "2025"
 
 abstract: >-
   Present UrbanVLP, a novel vision-language pretraining framework that integrates both macro and micro-level urban data and enhances interpretability through automatic text generation, achieving superior performance in urban region profiling.
