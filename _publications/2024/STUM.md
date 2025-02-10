@@ -1,7 +1,7 @@
 ---
 title: "Cross Space and Time: A Spatio-Temporal Unitized Model for Traffic Flow Forecasting"
 date: 2024-11-09 00:01:00 +0800
-selected: false
+selected: true
 # pub: "The International Joint Conference on Artificial Intelligence (IJCAI)"
 # pub_pre:        "Submitted to "
 pub_post:       'Under review.'
