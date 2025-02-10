@@ -5,7 +5,7 @@ selected: true
 pub:            "AAAI Conference on Artificial Intelligence (AAAI)"
 # pub_pre:        "Submitted to "
 # pub_post: "Under review."
-# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_last: ' <span class="badge badge-pill badge-publication badge-warning">Poster</span>'
 pub_date: "2025"
 
 abstract: >-
@@ -22,5 +22,6 @@ authors:
   - Yu Zheng
   - Yuxuan Liang
 links:
-  Paper: https://openreview.net/pdf?id=ZMHtDZcR2V
+  Code: https://github.com/CityMind-Lab/AirRadar
+  Paper: https://www.arxiv.org/abs/2501.13141
 ---

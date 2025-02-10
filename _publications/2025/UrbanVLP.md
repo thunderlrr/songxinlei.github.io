@@ -5,7 +5,7 @@ selected: true
 pub:            "AAAI Conference on Artificial Intelligence (AAAI)"
 # pub_pre:        "Submitted to "
 # pub_post: "Under review."
-# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_last: ' <span class="badge badge-pill badge-publication badge-warning">Poster</span>'
 pub_date: "2025"
 
 abstract: >-
@@ -20,5 +20,6 @@ authors:
   - Qingsong Wen
   - Yuxuan Liang
 links:
+  Code: https://github.com/CityMind-Lab/UrbanVLP
   Paper: https://arxiv.org/pdf/2403.16831.pdf
 ---
