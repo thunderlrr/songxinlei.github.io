@@ -10,7 +10,7 @@ pub_date: "2025"
 
 abstract: >-
   Propose LDM4TS, a novel framework that leverages the powerful image reconstruction capabilities of latent diffusion models for vision-enhanced time series forecasting.
-cover: /assets/images/covers/TimeVLM.png
+cover: /assets/images/covers/LDM4TS.png
 authors:
   - Weilin Ruan
   - Siru Zhong
