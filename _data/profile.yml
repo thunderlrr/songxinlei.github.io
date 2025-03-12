@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: "Data Science & Analytics"
 
 positions:
-- logo: /assets/images/badges/HKUST_GZ.png
+- logo: /assets/images/badges/profile.png
   name: 'Ph.D. Student @ HKUST(GZ) | Former Engineer @ Tencent & XPENG | Research Focus: Spatio-Temporal Data Mining (STDM)'
 
 email: "siruzhong@outlook.com"
