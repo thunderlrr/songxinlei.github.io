@@ -27,7 +27,7 @@ short_bio: >-
     I hold an M.Phil. degree in Data Science & Analytics from the <a href="http://dsa.hkust-gz.edu.cn/" target="_blank">HKUST (Guangzhou)</a>, and a B.Eng. degree in Computer Science & Information Engineering from the <a href="https://ci.hfut.edu.cn/" target="_blank">Hefei University of Technology</a>. Prior to that, I gained industry experience as an Algorithm Research Intern at the Autonomous Driving Center of <a href="https://www.xpeng.com/" target="_blank">XPENG Motor</a> and as a full-time Software Engineer at the CloudIDE & Workflow Engine Center of <a href="https://www.tencent.com/" target="_blank">Tencent</a> for one year.
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
+# portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: >-
   I'm siru. Welcome to my homepage~
 
