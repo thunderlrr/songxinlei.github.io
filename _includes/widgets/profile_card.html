@@ -3,23 +3,26 @@
         <div class="card border-0 shadow-sm bg-white">
             <div class="card-body" style="padding-left: 2rem;padding-right: 2em;">
                 <div class="row">
-                    <div class="col text-center">
-                        {% if site.data.profile.portrait_url %}
-                        <figure class="figure mb-3">
-                            <img 
-                                src="{{ site.data.profile.portrait_url | relative_url }}" 
-                                class="figure-img img-fluid rounded-circle shadow-sm" 
-                                style="height: 180px; width: 180px; object-fit: cover;"
-                                data-toggle="tooltip" 
-                                data-placement="top" 
-                                title="{{ site.data.profile.portrait_caption }}"
-                            >
-                        </figure>
-                        {% endif %}
-                        
-                        <div class="h3 font-weight-normal mb-2">
-                            {{ site.data.profile.primary_name }} <small>{{ site.data.profile.secondary_name }}</small>
+                    <div class="col">
+                        <div class="text-center">
+                            {% if site.data.profile.portrait_url %}
+                            <figure class="figure mb-3">
+                                <img 
+                                    src="{{ site.data.profile.portrait_url | relative_url }}" 
+                                    class="figure-img img-fluid rounded-circle shadow-sm" 
+                                    style="height: 180px; width: 180px; object-fit: cover;"
+                                    data-toggle="tooltip" 
+                                    data-placement="top" 
+                                    title="{{ site.data.profile.portrait_caption }}"
+                                >
+                            </figure>
+                            {% endif %}
+                            
+                            <div class="h3 font-weight-normal mb-2">
+                                {{ site.data.profile.primary_name }} <small>{{ site.data.profile.secondary_name }}</small>
+                            </div>
                         </div>
+
                         <div class="text-profile-position" style="background-color: #edeff0">
                             {% for position in site.data.profile.positions %}
                             {% if position.logo -%}
