@@ -29,7 +29,7 @@ short_bio: >-
   </p>
   <div class="institution-logos" style="margin-top: 20px; text-align: center;">
     <a href="https://www.hkust-gz.edu.cn/" target="_blank" style="margin: 0 10px;">
-      <img src="/assets/images/badges/HKUST_GZ.png" alt="HKUST(GZ)" style="height: 40px; width: auto;">
+      <img src="/assets/images/badges/HKUST_GZ_Logo.png" alt="HKUST(GZ)" style="height: 40px; width: auto;">
     </a>
     <a href="https://www.huawei.com/" target="_blank" style="margin: 0 10px;">
       <img src="/assets/images/badges/Huawei_company.png" alt="Huawei" style="height: 40px; width: auto;">
@@ -39,9 +39,6 @@ short_bio: >-
     </a>
     <a href="https://www.tencent.com/" target="_blank" style="margin: 0 10px;">
       <img src="/assets/images/badges/tencent_company.png" alt="Tencent" style="height: 40px; width: auto;">
-    </a>
-    <a href="https://ci.hfut.edu.cn/" target="_blank" style="margin: 0 10px;">
-      <img src="/assets/images/badges/HFUT.png" alt="HFUT" style="height: 40px; width: auto;">
     </a>
   </div>
 
