@@ -62,7 +62,7 @@ education:
 
 experience:
 - name: Huawei
-  logo: /assets/images/badges/Huawei_company.png
+  logo: /assets/images/badges/Huawei-Logo.png
   position: Research Intern, HUAWEI 2012 Lab
   date: Feb. 2025 - Now
 - name: XPENG
@@ -70,7 +70,7 @@ experience:
   position: Algorithm Intern, Autonomous Driving Center
   date: May. 2024 - Aug. 2024
 - name: HKUST(GZ)
-  logo: /assets/images/badges/hkustgz.png
+  logo: /assets/images/badges/HKUST_GZ_Logo.png
   position: Research Assistant, CityMind Lab
   date: May. 2023 - Aug. 2023
 - name: Tencent
