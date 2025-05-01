@@ -1,7 +1,7 @@
 ---
 title: "Vision-Enhanced Time Series Forecasting via Latent Diffusion Models"
 date: 2025-05-10 00:00:00 +0800
-selected: true
+selected: false
 # pub:            "AAAI Conference on Artificial Intelligence (AAAI)"
 # pub_pre:        "Submitted to "
 pub_post: "Under review."
