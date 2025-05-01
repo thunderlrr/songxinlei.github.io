@@ -1,9 +1,8 @@
 ---
 title: "Time-VLM: Exploring Multimodal Vision-Language Models for Augmented Time Series Forecasting"
-date: 2025-05-01pub_last: ' <span class="badge badge-pill badge-publication badge-warning">Poster</span>'
- 00:00:00 +0800
+date: 2025-05-01 00:00:00 +0800
 selected: true
-pub:            "International Conference on Machine Learning"
+# pub:            "International Conference on Machine Learning"
 # pub_pre:        "Submitted to "
 # pub_post: "Under review."
 pub_last: ' <span class="badge badge-pill badge-publication badge-warning">Poster</span>'
