@@ -13,7 +13,7 @@ cover: /assets/images/covers/SINPA.png
 authors:
   - Huaiwu Zhang
   - Yutong Xia
-  - Siru Zhong*
+  - Siru Zhong
   - Kun Wang
   - Zekun Tong
   - Qingsong Wen
