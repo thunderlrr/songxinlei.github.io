@@ -38,8 +38,10 @@
                                     <div class="small">{{ item.dept }}</div>
                                     <div class="small">{{ item.position }}</div>
                                 </div>
-                                <img src="{{ item.logo | relative_url }}" alt="{{ item.name }}" style="width: 32px; margin: 0 16px;" class="align-self-center">
-                                <div class="text-muted no-break"><em>{{ item.date }}</em></div>
+                                <div style="width: 48px; text-align: center;">
+                                    <img src="{{ item.logo | relative_url }}" alt="{{ item.name }}" style="width: 40px;" class="align-self-center">
+                                </div>
+                                <div class="text-muted no-break" style="width: 100px; text-align: right;"><em>{{ item.date }}</em></div>
                             </div>
                         </div>
                     </li>
