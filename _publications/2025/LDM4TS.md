@@ -6,7 +6,6 @@ selected: false
 # pub_pre:        "Submitted to "
 pub_post: "Under review."
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
-pub_date: "2025"
 
 cover: /assets/images/covers/LDM4TS.png
 authors:

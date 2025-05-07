@@ -7,7 +7,6 @@ pub: "International Joint Conference on Artificial Intelligence (IJCAI 2024), Je
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_last: ' <span class="badge badge-pill badge-publication badge-warning">Poster</span>'
-pub_date: "2024"
 
 cover: /assets/images/covers/SINPA.png
 authors:
