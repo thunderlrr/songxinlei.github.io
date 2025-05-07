@@ -56,7 +56,7 @@ experience:
   date: Feb. 2025 - Now
 - name: XPENG
   logo: /assets/images/badges/xpeng_company.png
-  position: Algorithm Intern, Autonomous Driving Center
+  position: Research Intern, Autonomous Driving Center
   date: May. 2024 - Aug. 2024
 - name: HKUST(GZ)
   logo: /assets/images/badges/HKUST_GZ_Logo.png
@@ -64,12 +64,8 @@ experience:
   date: May. 2023 - Aug. 2023
 - name: Tencent
   logo: /assets/images/badges/tencent_company.png
-  position: Software Engineer, CloudDev Center
-  date: Jul. 2022 - May. 2023
-- name: Tencent
-  logo: /assets/images/badges/tencent_company.png
-  position: Software Intern, Workflow Center
-  date: Jun. 2021 - Sep. 2023
+  position: Software Engineer & Intern
+  date: Jun. 2021 - May. 2023
 
 awards:
 - name: Runner-Up Prize for DSA Excellent Research Award, HKUST(GZ)
