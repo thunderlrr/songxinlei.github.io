@@ -50,17 +50,17 @@ education:
   date: Sep. 2018 - Jul. 2022
 
 experience:
-- name: Huawei
+- name: Huawei 2012 Labs
   logo: /assets/images/badges/Huawei-Logo.png
-  position: Research Intern, HUAWEI 2012 Lab
+  position: Research Intern
   date: Feb. 2025 - Now
-- name: XPENG
+- name: XPENG ADC
   logo: /assets/images/badges/xpeng_company.png
-  position: Research Intern, Autonomous Driving Center
+  position: Research Intern
   date: May. 2024 - Aug. 2024
-- name: Tencent
+- name: Tencent CloudIDE
   logo: /assets/images/badges/tencent_company.png
-  position: Software Engineer & Intern, CloudDev Center
+  position: Software Engineer & Intern
   date: Jun. 2021 - May. 2023
 
 awards:
