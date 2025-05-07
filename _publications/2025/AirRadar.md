@@ -8,9 +8,7 @@ pub:            "AAAI Conference on Artificial Intelligence (AAAI)"
 pub_last: ' <span class="badge badge-pill badge-publication badge-warning">Poster</span>'
 pub_date: "2025"
 
-abstract: >-
-  Introduce AirRadar, a deep neural network inferring unmonitored air quality. It uses learnable mask tokens in two-stage process for feature reconstruction. Validated by a dataset, it outperforms baselines, contributing to air quality monitoring with its design and performance.
-cover: /assets/images/covers/UrbanVLP.png
+cover: /assets/images/covers/AirRadar.png
 authors:
   - Qiongyan WANG
   - Yutong Xia

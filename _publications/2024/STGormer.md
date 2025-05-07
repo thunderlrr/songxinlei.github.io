@@ -8,8 +8,6 @@ pub_post: "Under review."
 # pub_last: ' <span class="badge badge-pill badge-publication badge-warning">Poster</span>'
 pub_date: "2024"
 
-abstract: >-
-  Introduce STGormer, a Spatio-Temporal Graph Transformer that integrates traffic data attributes and structures with a mixture-of experts module to capture spatio-temporal heterogeneity, achieving state-of-the-art performance in traffic forecasting
 cover: /assets/images/covers/STGormer.png
 authors:
   - Jianxiang Zhou

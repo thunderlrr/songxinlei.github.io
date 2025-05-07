@@ -8,8 +8,6 @@ pub: "The International World Wide Web Conference (WWW)"
 pub_last: ' <span class="badge badge-pill badge-publication badge-success">Oral</span>'
 pub_date: "2024"
 
-abstract: >-
-  Introduce UrbanCLIP, the first large language model–enhanced framework that integrates textual descriptions with satellite imagery through contrastive language-image pretraining, significantly improving urban region profiling performance across major cities.
 cover: /assets/images/covers/UrbanCLIP.png
 authors:
   - Yibo Yan

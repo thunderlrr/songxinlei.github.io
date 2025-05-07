@@ -8,8 +8,6 @@ pub:            "International Conference on Machine Learning (ICML)"
 pub_last: ' <span class="badge badge-pill badge-publication badge-warning">Poster</span>'
 pub_date: "2025"
 
-abstract: >-
-  Propose Time-VLM, a novel multimodal framework that leverages pre-trained Vision-Language Models (VLMs) to bridge temporal, visual, and textual modalities for enhanced time series forecasting.
 cover: /assets/images/covers/TimeVLM.png
 authors:
   - Siru Zhong
@@ -19,5 +17,6 @@ authors:
   - Qingsong Wen
   - Yuxuan Liang
 links:
+  Code: https://github.com/siruzhong/ICML25-Time-VLM
   Paper: https://arxiv.org/abs/2502.04395
 ---

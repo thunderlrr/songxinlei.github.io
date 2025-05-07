@@ -8,8 +8,6 @@ pub_post: "Under review."
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date: "2025"
 
-abstract: >-
-  Propose LDM4TS, a novel framework that leverages the powerful image reconstruction capabilities of latent diffusion models for vision-enhanced time series forecasting.
 cover: /assets/images/covers/LDM4TS.png
 authors:
   - Weilin Ruan
@@ -17,5 +15,6 @@ authors:
   - Haomin Wen
   - Yuxuan Liang
 links:
+  Code: https://github.com/RWLinno/LDM4TS
   Paper: http://arxiv.org/abs/2502.14887
 ---
