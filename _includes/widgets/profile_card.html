@@ -9,8 +9,8 @@
                         <figure class="figure mb-0">
                             <img 
                                 src="{{ site.data.profile.portrait_url | relative_url }}" 
-                                class="figure-img img-fluid rounded-circle shadow" 
-                                style="height: 200px; width: 200px; object-fit: cover; border: 4px solid #fff;"
+                                class="figure-img img-fluid shadow" 
+                                style="height: 180px; width: 180px; object-fit: cover; border: 4px solid #fff;"
                                 data-toggle="tooltip" 
                                 data-placement="top" 
                                 title="{{ site.data.profile.portrait_caption }}"
@@ -25,7 +25,10 @@
                         <div class="text-profile-position p-2 rounded" style="background-color: #f8f9fa;">
                             {% for position in site.data.profile.positions %}
                             <div class="position-item">
-                                {{ position.name }}
+                                {% assign parts = position.name | split: '|' %}
+                                {% for part in parts %}
+                                <div>{{ part | strip }}</div>
+                                {% endfor %}
                             </div>
                             {% endfor %}
                         </div>
