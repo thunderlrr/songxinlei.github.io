@@ -27,9 +27,6 @@
                         <div class="text-profile-position p-2 rounded text-center" style="background-color: #f8f9fa; margin-bottom: 1.5rem;">
                             {% for position in site.data.profile.positions %}
                             <div class="position-item">
-                                {% if position.logo -%}
-                                <img src="{{ position.logo | relative_url }}" alt="Logo" class="inline-badge"/>
-                                {%- endif %}
                                 {{ position.name }}
                             </div>
                             {% endfor %}
