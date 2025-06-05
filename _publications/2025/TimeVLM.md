@@ -16,6 +16,6 @@ authors:
   - Qingsong Wen
   - Yuxuan Liang
 links:
-  Code: https://github.com/siruzhong/ICML25-Time-VLM
+  Code: https://github.com/CityMind-Lab/ICML25-TimeVLM
   Paper: https://arxiv.org/abs/2502.04395
 ---
