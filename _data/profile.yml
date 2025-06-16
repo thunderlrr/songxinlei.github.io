@@ -1,33 +1,33 @@
-primary_name: "Siru Zhong"
+primary_name: "Songxin Lei"
 secondary_name: ""
 navbar_name: "Data Science & Analytics"
 
 positions:
-- name: 'Ph.D. Student | Data Science & Analytics | Guangzhou, China | Huawei, XPENG, Tencent'
+- name: 'M.phil. Student | Data Science & Analytics | Guangzhou, China | HKUST(GZ), NJU, TJU'
 
-email: "siruzhong@outlook.com"
+email: "slei924@connect.hkust-gz.edu.cn"
 # cv_link: link-to-your-cv-file
-gscholar: 3KMb5mUAAAAJ
-sscholar: Siru-Zhong/2262444705
-github: siruzhong
-zhihu: zhongsiru
-csdn: qq_45173404
+# gscholar: 3KMb5mUAAAAJ
+# sscholar: Siru-Zhong/2262444705
+github: thunderlrr
+# zhihu: zhongsiru
+# csdn: qq_45173404
 # twitter: your_twitter_id
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
-linkedin: siruzhong
-orcid: 0009-0001-4465-8686
+# linkedin: siruzhong
+# orcid: 0009-0001-4465-8686
 
 short_bio: >-
   <p style="margin-bottom: 5px;">
-    Siru Zhong is a Ph.D. student in <a href="http://dsa.hkust-gz.edu.cn/" target="_blank">Data Science</a> at The Hong Kong University of Science and Technology (HKUST), Guangzhou Campus, since Spring 2025, supervised by <a href="https://yuxuanliang.com/" target="_blank">Prof. Yuxuan Liang</a>, with co-supervision from <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YUE-Yang/yangyue" target="_blank">Prof. Yang Yue</a> and <a href="https://www.cse.ust.hk/~yqsong/" target="_blank">Prof. Yangqiu Song</a>. He previously obtained his M.Phil. degree from the same university in 2024 and his B.S. degree in <a href="https://ci.hfut.edu.cn/" target="_blank">Computer Science</a> from HFUT in 2022.
+    Songxin Lei is a M.phil. Student in <a href="http://dsa.hkust-gz.edu.cn/" target="_blank">Data Science</a> at The Hong Kong University of Science and Technology (HKUST), Guangzhou Campus, since Fall 2024, supervised by <a href="https://yuxuanliang.com/" target="_blank">Prof. Yuxuan Liang</a>, with co-supervision from <a href="https://ai.nju.edu.cn/zhangzongzhang/index.htm" target="_blank">Prof. Zongzhang Zhang</a>, from <a href="http://www.lamda.nju.edu.cn/CH.MainPage.ashx" target="_blank">LAMDA Group</a>, <a href="https://ai.nju.edu.cn/" target="_blank">the School of Artificial Intelligence</a>, <a href="https://www.nju.edu.cn/" target="_blank">Nanjing University</a>. He previously obtained his B.S. degree in Data Science and Big Data Technology from <a href="https://www.tju.edu.cn/" target="_blank">Tianjin University</a> in 2024, under the supervision of <a href="http://www.huamingwu.cn/" target="_blank">Prof. Huaming Wu</a>. 
   </p>
   <p style="margin-bottom: 5px;">
-    Currently, Siru is a Research Intern at Huawei 2012 Labs (supervised by <a href="https://scholar.google.com/citations?user=sNb24gkAAAAJ&amp;hl=zh-CN&amp;oi=sra" target="_blank">Dr. Hao Xu</a>) and collaborates with Squirrel AI (supervised by <a href="https://sites.google.com/site/qingsongwen8/" target="_blank">Dr. Qingsong Wen</a>, Head of AI and Chief Scientist). Prior to that, he interned at XPENG (supervised by <a href="https://www.linkedin.com/in/cheng-lu-5b24a739/" target="_blank">Dr. Cheng Lu</a>, Director of the Visual Imaging Team at Autonomous Driving Center) and worked as a full-time Software Engineer at Tencent (2022–2023).
+    Currently, Songxin is a Visiting Student at <a href="http://stdi.top/" target="_blank">STDI Lab</a> (supervised by <a href="http://www.sjruan.me/" target="_blank">Prof. Sijie Ruan</a> and <a href="https://cs.bit.edu.cn/szdw/jcrc/gjjljrc/e33ed58303834b8bacb757f38538e00d.blk.htm" target="_blank">Prof. Shuliang Wang</a>), <a href="https://www.bit.edu.cn/" target="_blank">Beijing Institude of Technology</a>. At the same time, Songxin collaborates with <a href="https://hkust.edu.hk/zh-hans/news/hkust-launches-low-altitude-economy-research-center" target="_blank">LASERi</a> (supervised by <a href="https://cse.hkust.edu.hk/~leichen/" target="_blank">Prof. Lei Chen</a>). 
   </p>
   <p style="margin-bottom: 5px;">
-    His research interests lie in Multimodal Spatio-Temporal Data Intelligence, including modeling, forecasting, and decision-making for complex spatiotemporal systems. He welcomes collaborations with researchers and practitioners in related areas.
+    His research interests lie in Spatial-Temporal Data Mining, Edge Computing, and Deep Reinforcement Learning. Besides, He hopes to further explore topics such as RL4LLM, Reasoning Model, and its applications in Urban Computing. He welcomes collaborations with researhers and practitioners in related areas.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
