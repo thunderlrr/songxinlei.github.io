@@ -21,32 +21,32 @@ github: thunderlrr
 
 short_bio: >-
   <p style="margin-bottom: 5px;">
-    Songxin Lei is a M.phil. Student in <a href="http://dsa.hkust-gz.edu.cn/" target="_blank">Data Science</a> at The Hong Kong University of Science and Technology (HKUST), Guangzhou Campus, since Fall 2024, supervised by <a href="https://yuxuanliang.com/" target="_blank">Prof. Yuxuan Liang</a>, with co-supervision from <a href="https://ai.nju.edu.cn/zhangzongzhang/index.htm" target="_blank">Prof. Zongzhang Zhang</a>, from <a href="http://www.lamda.nju.edu.cn/CH.MainPage.ashx" target="_blank">LAMDA Group</a>, <a href="https://ai.nju.edu.cn/" target="_blank">the School of Artificial Intelligence</a>, <a href="https://www.nju.edu.cn/" target="_blank">Nanjing University</a>. He previously obtained his B.S. degree in Data Science and Big Data Technology from <a href="https://www.tju.edu.cn/" target="_blank">Tianjin University</a> in 2024, under the supervision of <a href="http://www.huamingwu.cn/" target="_blank">Prof. Huaming Wu</a>. 
+    Songxin Lei is a PhD. Student in <a href="https://ieda.ust.hk/eng/index.php" target="_blank">Industrail Engineering and Decision Making</a> at <a href="https://hkust.edu.hk/" target="_blank">The Hong Kong University of Science and Technology (HKUST)</a>, since Fall 2026, supervised by <a href="https://www.ieda.ust.hk/dfaculty/tsung/" target="_blank">Prof. Fugee Tsung</a>. He previously obtained his M.phil. degree in Data Science and Analytics from  <a href="https://www.tju.edu.cn/" target="_blank">HKUST(GZ)</a> in 2026, under the supervision of <a href="https://yuxuanliang.com/" target="_blank">Prof. Yuxuan Liang and <a href="https://sites.google.com/ucsc.edu/jiahengwei" target="_blank">Prof. Jiaheng Wei, and his B.S. degree in Data Science and Big Data Technology from <a href="https://www.tju.edu.cn/" target="_blank">Tianjin University</a> in 2024, under the supervision of <a href="http://www.huamingwu.cn/" target="_blank">Prof. Huaming Wu</a>. 
   </p>
   <p style="margin-bottom: 5px;">
-    Currently, Songxin is a Visiting Student at <a href="http://stdi.top/" target="_blank">STDI Lab</a> (supervised by <a href="http://www.sjruan.me/" target="_blank">Prof. Sijie Ruan</a> and <a href="https://cs.bit.edu.cn/szdw/jcrc/gjjljrc/e33ed58303834b8bacb757f38538e00d.blk.htm" target="_blank">Prof. Shuliang Wang</a>), <a href="https://www.bit.edu.cn/" target="_blank">Beijing Institude of Technology</a>. At the same time, Songxin collaborates with <a href="https://hkust.edu.hk/zh-hans/news/hkust-launches-low-altitude-economy-research-center" target="_blank">LASERi</a> (supervised by <a href="https://cse.hkust.edu.hk/~leichen/" target="_blank">Prof. Lei Chen</a>). 
+    At the same time, Songxin has been closely collaborating with the research groups led by <a href="http://www.sjruan.me/" target="_blank">Prof. Sijie Ruan</a> from <a href="https://www.bit.edu.cn/" target="_blank">Beijing Institude of Technology</a>, and <a href="https://cse.hkust.edu.hk/~leichen/" target="_blank">Prof. Lei Chen</a> from <a href="https://hkust.edu.hk/" target="_blank">HKUST</a>. 
   </p>
   <p style="margin-bottom: 5px;">
-    His research interests lie in Spatial-Temporal Data Mining, Edge Computing, and Deep Reinforcement Learning. Besides, He hopes to further explore topics such as RL4LLM, Reasoning Model, and its applications in Urban Computing. He welcomes collaborations with researhers and practitioners in related areas.
+    His research interests lie in Data Mining, Reinforcement Learning, and LLM Inference. Besides. He welcomes collaborations with researhers and practitioners in related areas.
   </p>
 
 portrait_url: /assets/images/photos/Songxin.jpg
 portrait_caption: >-
-  I'm siru. Welcome to my homepage~
+  I'm Songxin. Welcome to my homepage~
 
 education:
-- name: Hong Kong University of Science and Technology (GZ)
-  logo: /assets/images/badges/HKUST_GZ.png
-  position: Ph.D. in Data Science & Analytics
-  date: Feb. 2025 - Jan. 2028
+- name: Hong Kong University of Science and Technology
+  logo: /assets/images/badges/HKUST-Logo.png
+  position: Ph.D. in Industrail Engineering & Decision Making
+  date: Sep. 2026 - Jul. 2029
 - name: Hong Kong University of Science and Technology (GZ)
   logo: /assets/images/badges/HKUST_GZ.png
   position: M.Phil. in Data Science & Analytics
-  date: Aug. 2023 - Jan. 2025
-- name: Hefei University of Technology
+  date: Aug. 2024 - Jul. 2026
+- name: Tianjin Universiy
   logo: /assets/images/badges/HFUT.png
-  position: B.Eng. in Computer Science & Information Engineering
-  date: Sep. 2018 - Jul. 2022
+  position: B.Eng. in Data Sceince & Big Data Technology
+  date: Sep. 2020 - Jul. 2024
 
 experience:
 - name: Huawei 2012 Labs
