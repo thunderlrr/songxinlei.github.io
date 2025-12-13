@@ -1,9 +1,9 @@
-primary_name: "Songxin Lei"
+primary_name: "Songxin LEI"
 secondary_name: ""
 navbar_name: "Data Science & Analytics"
 
 positions:
-- name: 'PhD. Student | Industrial Engineering and Decision Making | Hong Kong, China | HKUST, BIT, TJU'
+- name: 'PhD. Student | The Hong Kong University of Science and Technology | Industrial Engineering & Decision Making | Hong Kong, China '
 
 email: "slei924@connect.hkust-gz.edu.cn"
 # cv_link: link-to-your-cv-file
@@ -21,7 +21,7 @@ github: thunderlrr
 
 short_bio: >-
   <p style="margin-bottom: 5px;">
-    Songxin Lei is a PhD. Student in <a href="https://ieda.ust.hk/eng/index.php" target="_blank">Industrail Engineering and Decision Making</a> at <a href="https://hkust.edu.hk/" target="_blank">The Hong Kong University of Science and Technology (HKUST)</a>, since Fall 2026, supervised by <a href="https://www.ieda.ust.hk/dfaculty/tsung/" target="_blank">Prof. Fugee Tsung</a>. He previously obtained his M.phil. degree in Data Science and Analytics from  <a href="https://www.tju.edu.cn/" target="_blank">HKUST(GZ)</a> in 2026, under the supervision of <a href="https://yuxuanliang.com/" target="_blank">Prof. Yuxuan Liang and <a href="https://sites.google.com/ucsc.edu/jiahengwei" target="_blank">Prof. Jiaheng Wei, and his B.S. degree in Data Science and Big Data Technology from <a href="https://www.tju.edu.cn/" target="_blank">Tianjin University</a> in 2024, under the supervision of <a href="http://www.huamingwu.cn/" target="_blank">Prof. Huaming Wu</a>. 
+    Songxin LEI is a PhD. Student in <a href="https://ieda.ust.hk/eng/index.php" target="_blank">Industrail Engineering & Decision Making</a> at <a href="https://hkust.edu.hk/" target="_blank">The Hong Kong University of Science and Technology (HKUST)</a>, since Fall 2026, supervised by <a href="https://www.ieda.ust.hk/dfaculty/tsung/" target="_blank">Prof. Fugee Tsung</a>. He previously obtained his M.phil. degree in Data Science & Analytics from  <a href="https://www.hkust-gz.edu.cn/zh/" target="_blank">HKUST(GZ)</a> in 2026, under the supervision of <a href="https://yuxuanliang.com/" target="_blank">Prof. Yuxuan Liang</a> and <a href="https://sites.google.com/ucsc.edu/jiahengwei" target="_blank">Prof. Jiaheng Wei</a>, and his B.S. degree in Data Science & Big Data Technology from <a href="https://www.tju.edu.cn/" target="_blank">Tianjin University</a> in 2024, under the supervision of <a href="http://www.huamingwu.cn/" target="_blank">Prof. Huaming Wu</a>. 
   </p>
   <p style="margin-bottom: 5px;">
     At the same time, Songxin has been closely collaborating with the research groups led by <a href="http://www.sjruan.me/" target="_blank">Prof. Sijie Ruan</a> from <a href="https://www.bit.edu.cn/" target="_blank">Beijing Institude of Technology</a>, and <a href="https://cse.hkust.edu.hk/~leichen/" target="_blank">Prof. Lei Chen</a> from <a href="https://hkust.edu.hk/" target="_blank">HKUST</a>. 
@@ -30,13 +30,13 @@ short_bio: >-
     His research interests lie in Data Mining, Reinforcement Learning, and LLM Inference. Besides. He welcomes collaborations with researhers and practitioners in related areas.
   </p>
 
-portrait_url: /assets/images/photos/Songxin.jpg
+portrait_url: /assets/images/photos/Songxin1.jpg
 portrait_caption: >-
   I'm Songxin. Welcome to my homepage~
 
 education:
 - name: Hong Kong University of Science and Technology
-  logo: /assets/images/badges/HKUST-Logo.png
+  logo: /assets/images/badges/HKUST_GZ.png
   position: Ph.D. in Industrail Engineering & Decision Making
   date: Sep. 2026 - Jul. 2029
 - name: Hong Kong University of Science and Technology (GZ)
@@ -44,54 +44,38 @@ education:
   position: M.Phil. in Data Science & Analytics
   date: Aug. 2024 - Jul. 2026
 - name: Tianjin Universiy
-  logo: /assets/images/badges/HFUT.png
+  logo: /assets/images/badges/TJU.png
   position: B.Eng. in Data Sceince & Big Data Technology
   date: Sep. 2020 - Jul. 2024
 
 experience:
-- name: Huawei 2012 Labs
-  logo: /assets/images/badges/Huawei-Logo.png
-  position: Research Intern, Spatio-temporal Foundation Models
-  date: Feb. 2025 - Now
-- name: XPENG ADC
-  logo: /assets/images/badges/xpeng_company.png
-  position: Research Intern, Multimodal Perception in AD
-  date: May. 2024 - Aug. 2024
-- name: Tencent CloudIDE
-  logo: /assets/images/badges/tencent_company.png
-  position: Software Engineer & Intern, Cloud DevTools
-  date: Jun. 2021 - May. 2023
+- name: Alibaba Tongyi Lab
+  logo: /assets/images/badges/Tongyi.png
+  position: Research Intern, LLM Agent
+  date: Wed. 2026 - Jun. 2026
+- name:  Yozosoft Co., Ltd.
+  logo: /assets/images/badges/yozo.png
+  position: Intern, Natural Language Processing
+  date: Jun. 2022 - Jul. 2022
 
 awards:
-- name: Runner-Up Prize for DSA Excellent Research Award, HKUST(GZ)
+- name: Outstanding Graduate of Tianjin University, Tianjin, China
   date: 2024
-- name: Best Project Award (1st/15) in Data Science Computing, HKUST(GZ)
+- name: Baosteel Excellent Student Award (Top 0.02%), China
   date: 2023
-- name: Outstanding Student (Top 10%) in Red Bird Summer Camp, HKUST(GZ)
+- name: Top Ten Student Role Models at the School of Mathematics, Tianjin University, Tianjin, China
   date: 2023
-- name: iCode Certification of R&D Engineering Competency Evaluation, Tencent
+- name: Tianjin University Outstanding Student, Excellent Student Cadre, Tianjin, China
+  date: 2023
+- name: Second Prize in the Tianjin Division of the National College Student Mathematical Modeling Competition, Tianjin, China
   date: 2022
-- name: Silver Award (2nd/12) in Code World Program, Tencent
-  date: 2022
-- name: Outstanding Student Award (8th/100) in New Employee Training, Tencent
-  date: 2022
-- name: Outstanding Graduation Thesis Award (Top 2%), HFUT
-  date: 2022
-- name: First Prize (Top 10) in CSDN Technology Blogger Competition
-  date: 2020
 
 activities:
-  - name: Greater Bay Area Science Forum attendee, Guangzhou, China
+  - name: Program Committee of AAAI & WebST
+    date: 2025
+  - name: Reviewer of IEEE BigData & ADVEI & APWeb
     date: 2024
-  - name: ACM Multimedia Conference attendee, Melbourne, Australia
-    date: 2024
-  - name: China National Computer Conference attendee, Yiwu, China
-    date: 2024
-  - name: HKUST-GZ System Hub Welcome Party performer, Guangzhou, China
-    date: 2023
-  - name: Tencent New Year Gala performer, Shenzhen, China
-    date: 2023
-  - name: HFUT Chorus member, Hefei, China
-    date: 2018-2022
-  - name: HFUT External Relations Department member, Hefei, China
-    date: 2018-2019
+  - name: National Undergraduate Innovation Program Leader, China
+    date: 2022-2023
+  - name: Host of the Beiyang Lecture Hall, Tianjin, China
+    date: 2020-2021
