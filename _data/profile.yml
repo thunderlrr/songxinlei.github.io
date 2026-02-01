@@ -21,13 +21,13 @@ github: thunderlrr
 
 short_bio: >-
   <p style="margin-bottom: 5px;">
-    Greetings! I am a Ph.D. Student in <a href="https://ieda.ust.hk/eng/index.php" target="_blank">Industrail Engineering & Decision Analytics</a> at <a href="https://hkust.edu.hk/" target="_blank">The Hong Kong University of Science and Technology (HKUST)</a>, since Fall 2026, supervised by <a href="https://www.ieda.ust.hk/dfaculty/tsung/" target="_blank">Prof. Fugee Tsung</a>. I previously obtained my M.phil. degree in Data Science & Analytics from  <a href="https://www.hkust-gz.edu.cn/zh/" target="_blank">HKUST(GZ)</a> in 2026, under the supervision of <a href="https://yuxuanliang.com/" target="_blank">Prof. Yuxuan Liang</a> and <a href="https://sites.google.com/ucsc.edu/jiahengwei" target="_blank">Prof. Jiaheng Wei</a>, and my B.S. degree in Data Science & Big Data Technology from <a href="https://www.tju.edu.cn/" target="_blank">Tianjin University</a> in 2024, under the supervision of <a href="https://cam.tju.edu.cn/homepage/wuhuaming/" target="_blank">Prof. Huaming Wu</a>.  
+    Greetings! I will join <a href="https://ieda.ust.hk/eng/index.php" target="_blank">Industrail Engineering & Decision Analytics</a> department at <a href="https://hkust.edu.hk/" target="_blank">The Hong Kong University of Science and Technology (HKUST)</a> as a Ph.D. studnet, since Sept. 2026, supervised by <a href="https://www.ieda.ust.hk/dfaculty/tsung/" target="_blank">Prof. Fugee Tsung</a>. I am now a M.phil. student in Data Science & Analytics at <a href="https://www.hkust-gz.edu.cn/zh/" target="_blank">HKUST(GZ)</a>, under the supervision of <a href="https://yuxuanliang.com/" target="_blank">Prof. Yuxuan Liang</a> and <a href="https://sites.google.com/ucsc.edu/jiahengwei" target="_blank">Prof. Jiaheng Wei</a>. I previously obtained my B.S. degree in Data Science & Big Data Technology from <a href="https://www.tju.edu.cn/" target="_blank">Tianjin University</a> in 2024, under the supervision of <a href="https://cam.tju.edu.cn/homepage/wuhuaming/" target="_blank">Prof. Huaming Wu</a>.  
   </p>
   <p style="margin-bottom: 5px;">
-    Currently, I am collaborating closely with <a href="http://www.sjruan.me/" target="_blank">Prof. Sijie Ruan</a> from <a href="https://www.bit.edu.cn/" target="_blank">Beijing Institude of Technology</a>, <a href="https://wenhaomin.github.io/" target="_blank">Dr. Haomin Wen</a> from <a href="https://www.cmu.edu/" target="_blank">Carnegie Mellon University</a>, <a href="https://www.durham.ac.uk/staff/huijun-tang/" target="_blank">Dr. Huijun Tang</a> from <a href="https://www.durham.ac.uk/" target="_blank">Durham University</a>, and <a href="https://cse.hkust.edu.hk/~leichen/" target="_blank">Prof. Lei Chen</a> from <a href="https://hkust.edu.hk/" target="_blank">HKUST</a>. I interned at <a href="https://www.yozosoft.com/" target="_blank">Yozosoft Co., Ltd.</a> as a NLP algorithm engineer in 2022.
+    Currently, I am collaborating closely with <a href="http://www.sjruan.me/" target="_blank">Prof. Sijie Ruan</a> from <a href="https://www.bit.edu.cn/" target="_blank">Beijing Institude of Technology</a>, <a href="https://wenhaomin.github.io/" target="_blank">Dr. Haomin Wen</a> from <a href="https://www.cmu.edu/" target="_blank">Carnegie Mellon University</a>, <a href="https://www.durham.ac.uk/staff/huijun-tang/" target="_blank">Dr. Huijun Tang</a> from <a href="https://www.durham.ac.uk/" target="_blank">Durham University</a>, and <a href="https://cse.hkust.edu.hk/~leichen/" target="_blank">Prof. Lei Chen</a> from <a href="https://hkust.edu.hk/" target="_blank">HKUST</a>. I will join <a href="https://guangzi.qq.com/" target="_blank">Lightspeed Studios</a> at <a href="https://www.tencent.com/zh-cn/index.html" target="_blank">Tencent</a> as a research intern in February 2026, where I will be responsible for data agent algorithm research and related business. Prior to this, I interned at <a href="https://www.yozosoft.com/" target="_blank">Yozosoft Co., Ltd.</a> as a NLP algorithm engineer in 2022.
   </p>
   <p style="margin-bottom: 5px;">
-    My research interests lie in Data Mining, Reinforcement Learning, and LLM Inference. I welcome collaborations with researhers and practitioners in related areas.
+    My research interests lie in Agentic RL, Data Mining, and Reinforcement Learning. I welcome collaborations with researhers and practitioners in related areas!
   </p>
 
 portrait_url: /assets/images/photos/Songxin3.jpg
@@ -49,6 +49,10 @@ education:
   date: Sep. 2020 - Jul. 2024
 
 experience:
+- name: Lightspeed Studios, Tencent
+  logo: /assets/images/badges/tencent.png
+  position: Research Intern, Data Agent
+  date: Feb. 2026 - Aug. 2026
 - name:  Yozosoft Co., Ltd.
   logo: /assets/images/badges/yozo.png
   position: Intern, Natural Language Processing
