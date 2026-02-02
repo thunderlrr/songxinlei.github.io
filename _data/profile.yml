@@ -27,7 +27,7 @@ short_bio: >-
     Currently, I am collaborating closely with <a href="http://www.sjruan.me/" target="_blank">Prof. Sijie Ruan</a> from <a href="https://www.bit.edu.cn/" target="_blank">Beijing Institude of Technology</a>, <a href="https://wenhaomin.github.io/" target="_blank">Dr. Haomin Wen</a> from <a href="https://www.cmu.edu/" target="_blank">Carnegie Mellon University</a>, <a href="https://www.durham.ac.uk/staff/huijun-tang/" target="_blank">Dr. Huijun Tang</a> from <a href="https://www.durham.ac.uk/" target="_blank">Durham University</a>, and <a href="https://cse.hkust.edu.hk/~leichen/" target="_blank">Prof. Lei Chen</a> from <a href="https://hkust.edu.hk/" target="_blank">HKUST</a>. I will join <a href="https://guangzi.qq.com/" target="_blank">Lightspeed Studios</a> at <a href="https://www.tencent.com/zh-cn/index.html" target="_blank">Tencent</a> as a research intern in February 2026, where I will be responsible for data agent algorithm research and related business. Prior to this, I interned at <a href="https://www.yozosoft.com/" target="_blank">Yozosoft Co., Ltd.</a> as a NLP algorithm engineer in 2022.
   </p>
   <p style="margin-bottom: 5px;">
-    My research interests lie in Agentic RL, Data Mining, and Reinforcement Learning. I welcome collaborations with researhers and practitioners in related areas!
+    My research interests lie in Agentic RL, Data Mining, and Crowdsourcing. I welcome collaborations with researhers and practitioners in related areas!
   </p>
 
 portrait_url: /assets/images/photos/Songxin3.jpg
@@ -50,7 +50,7 @@ education:
 
 experience:
 - name: Lightspeed Studios, Tencent
-  logo: /assets/images/badges/tencent.png
+  logo: /assets/images/badges/tencent_company.png
   position: Research Intern, Data Agent
   date: Feb. 2026 - Aug. 2026
 - name:  Yozosoft Co., Ltd.
