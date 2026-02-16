@@ -13,7 +13,7 @@ authors:
   - Biquan Bie
   - Zuqiu Na
   - Weilin Ruan
-  - **Songxin Lei**
+  - Songxin Lei
   - Yutao Yue
   - Xinlei He
 links:
