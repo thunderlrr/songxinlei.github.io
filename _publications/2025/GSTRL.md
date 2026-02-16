@@ -3,8 +3,8 @@ title: "A Game-Theoretic Spatio-Temporal Reinforcement Learning Framework for Co
 date: 2025-10-30 00:00:00 +0800
 selected: true
 # pub:            "arxiv"
-# pub_pre:        "Submitted to "
-pub_post: "Under review."
+pub_pre:        "Submitted to IJCAI2026"
+# pub_post: "Under review."
 # pub_last: ' <span class="badge badge-pill badge-publication badge-warning">Poster</span>'
 
 cover: /assets/images/covers/AirRadar.png
