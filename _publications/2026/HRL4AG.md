@@ -7,7 +7,7 @@ pub_pre:        "Submitted to KDD2026"
 # pub_post: "Under review."
 # pub_last: ' <span class="badge badge-pill badge-publication badge-warning">Poster</span>'
 
-cover: /assets/images/covers/DeepUHI.png
+cover: /assets/images/covers/HRL4AG.png
 authors:
   - Songxin Lei
   - Chunming Ma
