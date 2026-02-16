@@ -1,10 +1,10 @@
 ---
 title: "A Game-Theoretic Spatio-Temporal Reinforcement Learning Framework for Collaborative Public Resource Allocation"
 date: 2025-10-30 00:00:00 +0800
-selected: true
-pub:            "arxiv"
+selected: false
+# pub:            "arxiv"
 # pub_pre:        "Submitted to "
-# pub_post: "Under review."
+pub_post: "Under review."
 # pub_last: ' <span class="badge badge-pill badge-publication badge-warning">Poster</span>'
 
 cover: /assets/images/covers/AirRadar.png
