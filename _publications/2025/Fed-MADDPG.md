@@ -7,7 +7,7 @@ pub:            "IEEE Transactions on Mobile Computing (CCF-A, SCI Q1 Top)"
 # pub_post: "Under review."
 # pub_last: ' <span class="badge badge-pill badge-publication badge-warning">Poster</span>'
 
-cover: /assets/images/covers/DeepUHI.png
+cover: /assets/images/covers/Fed-MADDPG.png
 authors:
   - Songxin Lei
   - Huijun Tang
