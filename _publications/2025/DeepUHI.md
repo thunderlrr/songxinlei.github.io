@@ -1,20 +1,21 @@
 ---
-title: "Fine-grained Urban Heat Island Effect Forecasting: A Context-aware Thermodynamic Modeling Framework"
-date: 2025-05-15 00:00:00 +0800
+title: "Federated MADDPG-Based Collaborative Scheduling Strategy in Vehicular Edge Computing"
+date: 2025-07-17 00:00:00 +0800
 selected: true
-pub:            "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025), Toronto, Canada"
+pub:            "IEEE Transactions on Mobile Computing (CCF-A, SCI Q1 Top)"
 # pub_pre:        "Submitted to "
 # pub_post: "Under review."
-pub_last: ' <span class="badge badge-pill badge-publication badge-warning">Poster</span>'
+# pub_last: ' <span class="badge badge-pill badge-publication badge-warning">Poster</span>'
 
 cover: /assets/images/covers/DeepUHI.png
 authors:
-  - Xingchen Zou
-  - Weilin Ruan
-  - Siru Zhong
-  - Yuehong Hu
-  - Yuxuan Liang
+  - Songxin Lei
+  - Huijun Tang
+  - Chuangyi Li
+  - Xueying Zhang
+  - Chenli Xu
+  - Huaming Wu
 links:
   # Code: https://github.com/siruzhong/ICML25-Time-VLM
-  Paper: https://openreview.net/pdf?id=O1IIOh81RQ
+  Paper: https://ieeexplore.ieee.org/abstract/document/11085134
 ---
