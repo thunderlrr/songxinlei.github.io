@@ -13,10 +13,10 @@ authors:
   - Biquan Bie
   - Zuqiu Na
   - Weilin Ruan
-  - Songxin Lei
+  - **Songxin Lei**
   - Yutao Yue
   - Xinlei He
 links:
-  Code: https://github.com/RWLinno/LDM4TS
-  Dataset: https://huggingface.co/datasets/TimTargaryen/SynAnchors
+  Paper: https://arxiv.org/abs/2505.15392
+  Data: https://huggingface.co/datasets/TimTargaryen/SynAnchors
 ---
