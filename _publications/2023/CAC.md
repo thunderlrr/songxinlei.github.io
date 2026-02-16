@@ -8,7 +8,7 @@ pub: "2023 Chinese Automation Congress (CAC)"
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 # pub_last: ' <span class="badge badge-pill badge-publication badge-warning">Poster</span>'
 
-cover: /assets/images/covers/SINPA.png
+cover: /assets/images/covers/CAC.png
 authors:
   - Songxin Lei
   - Xinyao Guo
