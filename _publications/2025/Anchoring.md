@@ -1,7 +1,7 @@
 ---
 title: "An empirical study of the anchoring effect in llms: existence, mechanism, and potential mitigations"
 date: 2025-05-21 00:00:00 +0800
-selected: false
+selected: true
 # pub:            "AAAI Conference on Artificial Intelligence (AAAI)"
 # pub_pre:        "Submitted to "
 pub_post: "Under review."
