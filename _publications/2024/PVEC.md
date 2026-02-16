@@ -8,7 +8,7 @@ pub: "IEEE Transactions on Vehicular Technology (SCI Q2 Top)"
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 # pub_last: ' <span class="badge badge-pill badge-publication badge-warning">Poster</span>'
 
-cover: /assets/images/covers/SINPA.png
+cover: /assets/images/covers/PVEC.png
 authors:
   - Songxin Lei
   - Xinyao Guo
