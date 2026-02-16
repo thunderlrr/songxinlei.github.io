@@ -7,7 +7,7 @@ selected: true
 pub_post: "Under review."
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 
-cover: /assets/images/covers/LDM4TS.png
+cover: /assets/images/covers/Anchoring.png
 authors:
   - Yiming Huang
   - Biquan Bie
