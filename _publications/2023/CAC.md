@@ -10,12 +10,12 @@ pub_last:       ' <span class="badge badge-pill badge-publication badge-success"
 
 cover: /assets/images/covers/CAC.png
 authors:
-  - Songxin Lei
-  - Xinyao Guo
   - Junyi Li
   - Yixiao Wang
-  - Yu Zhang
+  - Songxin Lei
+  - Xinyao Guo
   - Lu Zheng
+  - Yu Zhang
   - Huaming Wu
 links:
   #Code: https://github.com/yoshall/SINPA
