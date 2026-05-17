@@ -5,7 +5,7 @@ selected: true
 pub:            "ACM SIGKDD2026 (CCF-A)"
 # pub_pre:        "Submitted to KDD2026"
 # pub_post: "Under review."
-# pub_last: ' <span class="badge badge-pill badge-publication badge-warning">Poster</span>'
+pub_last: ' <span class="badge badge-pill badge-publication badge-warning">Oral</span>'
 
 cover: /assets/images/covers/HRL4AG.png
 authors:
