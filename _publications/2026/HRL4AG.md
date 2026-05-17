@@ -5,7 +5,7 @@ selected: true
 pub:            "ACM SIGKDD (CCF-A) 2026, Jeju, South Korea"
 # pub_pre:        "Submitted to KDD2026"
 # pub_post: "Under review."
-pub_last: ' <span class="badge badge-pill badge-publication badge-info">Oral</span>'
+pub_last: ' <span class="badge badge-pill badge-publication badge-info">Oral</span> <span class="text-muted" style="font-size: 0.7rem;">(688/21,575, 3.19%)</span>'
 
 cover: /assets/images/covers/HRL4AG.png
 authors:
