@@ -2,7 +2,7 @@
 title: "Hierarchical Reinforcement Learning for Cooperative Air-Ground Delivery in Urban System"
 date: 2026-05-17 00:00:00 +0800
 selected: true
- pub:            "ACM SIGKDD2026 (CCF-A)"
+pub:            "ACM SIGKDD2026 (CCF-A)"
 # pub_pre:        "Submitted to KDD2026"
 # pub_post: "Under review."
 # pub_last: ' <span class="badge badge-pill badge-publication badge-warning">Poster</span>'
