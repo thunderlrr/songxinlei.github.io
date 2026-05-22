@@ -59,6 +59,8 @@ experience:
   date: Jun. 2022 - Jul. 2022
 
 awards:
+- name: Bronze Tier reviewer distinction within the IJCAI-ECAI 2026
+  date: 2026
 - name: Outstanding Graduate of Tianjin University, Tianjin, China
   date: 2024
 - name: Baosteel Excellent Student Award (Top 0.02%), China
@@ -71,9 +73,11 @@ awards:
   date: 2022
 
 activities:
-  - name: Program Committee of KDD
+  - name: Reviewer of IJCAI-ECAI 2026
     date: 2026
-  - name: Program Committee of AAAI & WebST
+  - name: Program Committee of KDD 2026
+    date: 2026
+  - name: Program Committee of AAAI 2026 & WebST
     date: 2025
   - name: Reviewer of IEEE BigData & ADVEI & APWeb
     date: 2024
