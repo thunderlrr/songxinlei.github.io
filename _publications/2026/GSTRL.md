@@ -1,6 +1,6 @@
 ---
 title: "A Game-Theoretic Spatio-Temporal Reinforcement Learning Framework for Collaborative Public Resource Allocation"
-date: 2025-10-30 00:00:00 +0800
+date: 2026-05-23 00:00:00 +0800
 selected: true
 # pub:            "arxiv"
 pub_pre:        "Submitted to CIKM 2026"
