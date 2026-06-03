@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Location Planning For Shared Weighbridges In Ready-Mixed Concrete Logistics"
 date: 2026-02-02 00:00:00 +0800
-selected: true
+selected: false
 # pub:            "arxiv"
 # pub_pre:        "Submitted to CIKM 2026"
 pub_post: "Under review."
