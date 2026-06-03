@@ -1,6 +1,6 @@
 ---
 title: "Reinforcement Learning for UAV-based Participatory Sensing in Dynamic Environments"
-date: 2026-02-02 00:00:00 +0800
+date: 2026-06-03 00:00:00 +0800
 selected: true
 # pub:            "arxiv"
 pub_pre:        "Submitted to ACM Sigspatial 2026"
