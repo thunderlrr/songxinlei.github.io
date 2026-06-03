@@ -1,7 +1,7 @@
 ---
 title: "Hierarchical Gradient-Informed Reinforcement Learning for Scalable and Partially Observable Dynamic Resource Allocation"
 date: 2026-02-01 00:00:00 +0800
-selected: true
+selected: false
 # pub:            "arxiv"
 # pub_pre:        "Submitted to EMNLP 2026"
 pub_post: "Under review."
