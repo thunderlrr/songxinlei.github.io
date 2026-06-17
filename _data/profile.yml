@@ -73,11 +73,13 @@ awards:
   date: 2022
 
 activities:
+  - name: ACM Member
+    date: 2026
   - name: Program Committee of KDD 2026
     date: 2026
-  - name: Reviewer of IJCAI-ECAI 2026
+  - name: Reviewer of IJCAI 2026
     date: 2026
-  - name: Program Committee of AAAI 2026 & WebST
+  - name: Program Committee of AAAI 2026
     date: 2025
   - name: Reviewer of IEEE BigData & ADVEI & APWeb
     date: 2024
