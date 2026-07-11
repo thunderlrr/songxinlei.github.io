@@ -1,9 +1,9 @@
 ---
 title: "ViST: Harnessing Vision Transformation and Reconstruction for Multi-modal Spatio-temporal Forecasting"
-date: 2026-04-03 00:00:00 +0800
+date: 2026-07-10 00:00:00 +0800
 selected: true
-# pub:            "arxiv"
-pub_pre:        "Submitted to ACM MM 2026"
+pub:            "ACM Multimedia (CCF-A) 2026, Rio de Janeiro, Brazil"
+# pub_pre:        "Submitted to ACM MM 2026"
 # pub_post: "Under review."
 # pub_last: ' <span class="badge badge-pill badge-publication badge-warning">Poster</span>'
 
