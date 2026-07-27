@@ -17,5 +17,5 @@ authors:
   - Yuxuan Liang
 links:
   Code: https://thunderlrr.github.io/songxinlei.github.io/
-  Paper: https://thunderlrr.github.io/songxinlei.github.io/
+  Paper: https://arxiv.org/pdf/2607.18874
 ---
