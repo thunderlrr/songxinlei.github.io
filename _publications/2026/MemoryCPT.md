@@ -12,7 +12,7 @@ authors:
   - Songxin Lei
   - Kun Ouyang
   - Weilin Ruan
-  - Yuqian wu
+  - Yuqian Wu
   - Zhijiang Guo
   - Yushi Sun
   - Fugee Tsung
