@@ -18,6 +18,6 @@ authors:
   - Fugee Tsung
 links:
   Code: https://thunderlrr.github.io/songxinlei.github.io/
-  Paper: https://thunderlrr.github.io/songxinlei.github.io/
+  Paper: https://arxiv.org/abs/2608.04843
   # Data: https://tianchi.aliyun.com/dataset/76359
 ---
