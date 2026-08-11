@@ -3,7 +3,7 @@ title: "A Game-Theoretic Spatio-Temporal Reinforcement Learning Framework for Co
 date: 2026-08-11 00:00:00 +0800
 selected: true
 # pub:            "arxiv"
-pub:            "ACM CIKM (CCF-B) 2026, Rome, ITALY"
+pub:            "ACM CIKM 2026, Rome, ITALY"
 # pub_post: "Under review."
 # pub_last: ' <span class="badge badge-pill badge-publication badge-warning">Poster</span>'
 
