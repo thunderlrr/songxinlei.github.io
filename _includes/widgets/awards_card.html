@@ -1,8 +1,8 @@
-<!-- Awards & Activities -->
+<!-- Awards & Service -->
 <div class="row mb-4">
     <!-- Awards -->
-    <div class="col-md-6">
-        <div class="card border-0 shadow-sm bg-white h-100">
+    <div class="col-md-6 mb-4 mb-md-0">
+        <div class="card border-0 shadow-sm bg-white h-100" id="awards">
             <h6 class="p-3 mb-0"><i class="fas fa-award mr-2"></i>Honors & Awards</h6>
             <div class="px-3 pb-1">
                 <ul class="list small pl-3 mb-1">
@@ -19,13 +19,15 @@
         </div>
     </div>
 
-    <!-- Activities -->
+    <!-- Service -->
     <div class="col-md-6">
-        <div class="card border-0 shadow-sm bg-white h-100">
-            <h6 class="p-3 mb-0"><i class="fas fa-users mr-2"></i>Extracurricular Activities</h6>
+        <div class="card border-0 shadow-sm bg-white h-100" id="service">
+            <h6 class="p-3 mb-0">
+                <i class="fas fa-handshake mr-2" aria-hidden="true"></i>Service
+            </h6>
             <div class="px-3 pb-1">
                 <ul class="list small pl-3 mb-1">
-                    {% for item in site.data.profile.activities %}
+                    {% for item in site.data.profile.service %}
                     <li class="mb-2">
                         <div class="d-flex">
                             <div>{{ item.name }}</div>
