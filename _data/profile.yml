@@ -90,11 +90,11 @@ service:
 
 teaching:
   - name: "IEDA3270 Data-Driven Quality Technology"
-    role: "HKUST"
+    role: "The Hong Kong University of Science and Technology"
     date: "Fall 2026"
 
   - name: "INTR5230 Data-Driven Methods in Transportation"
-    role: "HKUST(GZ)"
+    role: "The Hong Kong University of Science and Technology (Guangzhou)"
     date: "Spring 2025"
 
   - name: "Mathematical Analysis C"
