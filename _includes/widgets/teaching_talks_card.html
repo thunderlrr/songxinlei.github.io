@@ -1,0 +1,72 @@
+<!-- Teaching & Talks -->
+<div class="row mb-4">
+    <!-- Teaching -->
+    <div class="col-md-6 mb-4 mb-md-0">
+        <div class="card border-0 shadow-sm bg-white h-100" id="teaching">
+            <h6 class="p-3 mb-0">
+                <i class="fas fa-chalkboard-user mr-2" aria-hidden="true"></i>Teaching
+            </h6>
+
+            <div class="px-3 pb-1">
+                <ul class="list small pl-3 mb-1">
+                    {% for item in site.data.profile.teaching %}
+                    <li class="mb-2">
+                        <div class="d-flex">
+                            <div>
+                                <div>{{ item.name }}</div>
+                                {% if item.role %}
+                                <div class="text-muted">{{ item.role }}</div>
+                                {% endif %}
+                            </div>
+                            <div class="ml-auto mt-auto pl-3 no-break">
+                                <em>{{ item.date }}</em>
+                            </div>
+                        </div>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <!-- Talks -->
+    <div class="col-md-6">
+        <div class="card border-0 shadow-sm bg-white h-100" id="talks">
+            <h6 class="p-3 mb-0">
+                <i class="fas fa-microphone mr-2" aria-hidden="true"></i>Talks
+            </h6>
+
+            <div class="px-3 pb-1">
+                <ul class="list small pl-3 mb-1">
+                    {% for item in site.data.profile.talks %}
+                    <li class="mb-2">
+                        <div class="d-flex">
+                            <div>
+                                <div>
+                                    {% if item.url %}
+                                    <a href="{{ item.url }}"
+                                       target="_blank"
+                                       rel="noopener noreferrer">
+                                        {{ item.title }}
+                                    </a>
+                                    {% else %}
+                                    {{ item.title }}
+                                    {% endif %}
+                                </div>
+
+                                {% if item.venue %}
+                                <div class="text-muted">{{ item.venue }}</div>
+                                {% endif %}
+                            </div>
+
+                            <div class="ml-auto mt-auto pl-3 no-break">
+                                <em>{{ item.date }}</em>
+                            </div>
+                        </div>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
