@@ -102,11 +102,11 @@ teaching:
     date: "Fall 2023"
 
 talks:
-  - title: "Your Talk Title"
-    venue: "Seminar or Conference Name"
-    date: "Oct. 2026"
-    url: "https://example.com"
+  - title: "Hierarchical Reinforcement Learning for Cooperative Air-Ground Delivery in Urban System"
+    venue: "KDD 2026 Oral, Jeju, South Korea"
+    date: "Aug. 2026"
+    url: "https://kdd2026.kdd.org/full-program/"
 
-  - title: "Another Talk Title"
-    venue: "University or Workshop Name"
-    date: "Jun. 2026"
+  - title: "Game-Theoretic Spatio-Temporal Reinforcement Learning for Public Resource Allocation"
+    venue: "STDI Lab, 北京理工大学计算机学院，北京"
+    date: "Fri. 2025"
