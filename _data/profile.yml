@@ -72,7 +72,7 @@ awards:
 - name: Second Prize in the Tianjin Division of the National College Student Mathematical Modeling Competition, Tianjin, China
   date: 2022
 
-activities:
+service:
   - name: ACM Member
     date: 2026
   - name: Program Committee of KDD 2026
@@ -87,3 +87,22 @@ activities:
     date: 2022-2023
   - name: Host of the Beiyang Lecture Hall, Tianjin, China
     date: 2020-2021
+
+teaching:
+  - name: "Course Code — Course Name"
+    role: "Teaching Assistant"
+    date: "Fall 2026"
+
+  - name: "Course Code — Another Course Name"
+    role: "Teaching Assistant"
+    date: "Spring 2026"
+
+talks:
+  - title: "Your Talk Title"
+    venue: "Seminar or Conference Name"
+    date: "Oct. 2026"
+    url: "https://example.com"
+
+  - title: "Another Talk Title"
+    venue: "University or Workshop Name"
+    date: "Jun. 2026"
