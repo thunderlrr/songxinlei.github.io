@@ -89,13 +89,17 @@ service:
     date: 2020-2021
 
 teaching:
-  - name: "Course Code — Course Name"
-    role: "Teaching Assistant"
+  - name: "IEDA3270 Data-Driven Quality Technology"
+    role: "HKUST"
     date: "Fall 2026"
 
-  - name: "Course Code — Another Course Name"
-    role: "Teaching Assistant"
-    date: "Spring 2026"
+  - name: "INTR5230 Data-Driven Methods in Transportation"
+    role: "HKUST(GZ)"
+    date: "Spring 2025"
+
+  - name: "Mathematical Analysis C"
+    role: "Tianjin University"
+    date: "Fall 2023"
 
 talks:
   - title: "Your Talk Title"
