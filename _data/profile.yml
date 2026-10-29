@@ -73,16 +73,12 @@ awards:
   date: 2022
 
 service:
-  - name: ACM Member
+  - name: Association for Computing Machinery(ACM) Member
     date: 2026
-  - name: Program Committee of KDD 2026
+  - name: Program Committee of KDD, AAAI, and WWW
     date: 2026
-  - name: Reviewer of IJCAI 2026
+  - name: Reviewer of ICLR, IJCAI, IEEE BigData & ADVEI & APWeb
     date: 2026
-  - name: Program Committee of AAAI 2026
-    date: 2025
-  - name: Reviewer of IEEE BigData & ADVEI & APWeb
-    date: 2024
   - name: National Undergraduate Innovation Program Leader, China
     date: 2022-2023
   - name: Host of the Beiyang Lecture Hall, Tianjin, China
